@@ -49,7 +49,7 @@ for file in glob.glob('_scraped_data/*.csv'):
         rows.append(row)
         
     file_handle.close()
-    #os.rename(file, "_scraped_data/alt-%s/%s" % (datestring, os.path.split(file)[-1]))
+    os.rename(file, "_scraped_data/alt-%s/%s" % (datestring, os.path.split(file)[-1]))
 
 output_file = open("_totals/hochwasser-%s.csv" % datestring, "wb")
 csv_writer = csv.DictWriter(output_file, fieldnames, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
