@@ -1,0 +1,14 @@
+latitude|longitude|name
+48.917194|11.407995|bayern, germany
+51.427206|7.66379|nrw, germany
+52.458466|13.017505|brandenburg, germany
+48.661804|9.003595|bw, germany
+53.553345|9.992455|hamburg, germany
+50.526585|9.0044|hessen, germany
+52.594694|9.12615|niedersachsen, germany
+51.427206|7.66379|nrw, germany
+50.928181|13.45681|sachsen, germany
+51.989765|11.873975|sachsen-anhalt, germany
+54.20911|9.5906|Schleswig-Holstein, germany
+50.926769|11.26589|thueringen, germany
+49.294457|10.405836|blah

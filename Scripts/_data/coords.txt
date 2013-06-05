@@ -1,0 +1,2011 @@
+latitude|longitude|name
+47.666931|12.9497|Winkl, bayern, germany
+48.917194|11.407995|Putzmühle HRB, bayern, germany
+48.917194|11.407995|Putzmühle HRB Abflauf, bayern, germany
+48.267425|10.98666|Mering, bayern, germany
+48.382923|11.047327|Dasing, bayern, germany
+48.458043|11.13031|Aichach, bayern, germany
+48.570648|11.28308|Mühlried, bayern, germany
+48.716873|11.495165|Manching (Ort), bayern, germany
+48.917194|11.407995|Manching Bahnbrücke, bayern, germany
+50.123699|12.1354|Blumenthal, bayern, germany
+49.409168|11.16765|Altenfurt, bayern, germany
+48.582432|11.090749|Pöttmes, bayern, germany
+48.716665|11.320895|Weichering, bayern, germany
+48.712002|11.45609|Oberstimm, bayern, germany
+48.64122|11.78004|Mainburg, bayern, germany
+48.557629|12.58526|Aunkofen, bayern, germany
+48.43161|11.37798|Thalmannsdorf, bayern, germany
+48.529861|11.5063|Pfaffenhofen, bayern, germany
+48.684676|11.612208|Geisenfeld, bayern, germany
+48.603629|11.627303|Wolnzach, bayern, germany
+48.613468|11.60923|Gosseltshausen, bayern, germany
+49.383888|10.37082|Binzwangen, bayern, germany
+48.266102|12.04236|Thann, bayern, germany
+48.917194|11.407995|Ornbau Wehr Oberwasser, bayern, germany
+49.152382|10.72342|Muhr, bayern, germany
+49.115393|10.753562|Gunzenhausen, bayern, germany
+48.917194|11.407995|Muhr Seepegel, bayern, germany
+49.097359|10.74716|Aha, bayern, germany
+48.955325|10.908531|Treuchtlingen, bayern, germany
+48.890609|11.184313|Eichstätt, bayern, germany
+48.917194|11.407995|Kinding KA, bayern, germany
+47.732015|12.5952|Beilngries oberh. der Sulz, bayern, germany
+49.157965|10.55299|Bechhofen, bayern, germany
+49.107208|10.73031|Unterwurmbach, bayern, germany
+48.90654|11.36608|Schambach, bayern, germany
+49.02985|11.3672|Mettendorf, bayern, germany
+48.992001|11.36487|Enkering, bayern, germany
+47.809059|12.65221|Holnstein, bayern, germany
+49.162013|11.716214|Parsberg, bayern, germany
+49.03631|11.907025|Deuerling, bayern, germany
+47.460152|10.27281|Fischen, bayern, germany
+47.512563|10.283007|Sonthofen, bayern, germany
+47.543104|10.258195|Blaichach, bayern, germany
+48.917194|11.407995|Immenstadt Zollbrücke, bayern, germany
+48.917194|11.407995|Weidachwiesen Steuerpegel Q, bayern, germany
+48.917194|11.407995|Weidachwiesen Binnenpolder W, bayern, germany
+48.917194|11.407995|Weidachwiesen Hauptpolder W, bayern, germany
+48.58786|11.91454|Martinszell, bayern, germany
+47.724251|10.31516|Kempten, bayern, germany
+48.917194|11.407995|Aitrach KW, bayern, germany
+48.017841|10.13788|Egelsee, bayern, germany
+48.917194|11.407995|Wiblingen, bayern, germany
+47.333801|10.26611|Birgsau, bayern, germany
+47.411324|10.277371|Oberstdorf, bayern, germany
+47.411324|10.277371|Oberstdorf, bayern, germany
+47.643421|12.97269|Gruben, bayern, germany
+49.437642|12.583596|Tiefenbach, bayern, germany
+47.461578|10.29373|Schöllang, bayern, germany
+49.494801|11.501|Reckenberg, bayern, germany
+47.528801|10.2972|Winkel, bayern, germany
+47.522251|10.22908|Gunzesried, bayern, germany
+47.552502|10.09004|Thalkirchdorf, bayern, germany
+47.568249|10.19132|Bühl, bayern, germany
+47.561588|10.21881|Immenstadt, bayern, germany
+47.555309|9.9711|Gschwend, bayern, germany
+48.917194|11.407995|Rottachsee, bayern, germany
+48.917194|11.407995|Greifenmühle, bayern, germany
+47.698161|10.342993|Durach, bayern, germany
+47.769428|10.34114|Stielings, bayern, germany
+47.778541|10.296114|Lauben, bayern, germany
+48.87432|12.843295|Aichstetten, bayern, germany
+48.235451|10.22674|Friesenhofen, bayern, germany
+48.04074|10.153631|Heimertingen, bayern, germany
+48.344742|10.03405|Gerlenhofen, bayern, germany
+49.246799|11.090851|Roth, bayern, germany
+47.778541|10.296114|Lauben, bayern, germany
+48.233479|10.31636|Nattenhausen, bayern, germany
+48.347985|10.292661|Waldstetten, bayern, germany
+48.917194|11.407995|Dirlewang HRB Abfluss, bayern, germany
+48.183762|10.42221|Hasberg, bayern, germany
+48.183762|10.42221|Hasberg, bayern, germany
+48.478323|10.363212|Offingen, bayern, germany
+48.121471|10.53937|Zaisertshofen, bayern, germany
+48.45282|10.37496|Remshart, bayern, germany
+48.547691|10.31231|Bächingen, bayern, germany
+48.619239|10.415219|Wittislingen, bayern, germany
+48.990601|11.30155|Erlingshofen, bayern, germany
+49.183185|12.34631|Reichenbach, bayern, germany
+49.053631|10.509145|Gerolfingen, bayern, germany
+48.809471|10.64454|Heroldingen, bayern, germany
+48.78548|10.69144|Harburg, bayern, germany
+49.227249|10.31813|Rödenweiler, bayern, germany
+48.917194|11.407995|Hahnenkammsee, bayern, germany
+48.917194|11.407995|Bopfingen, bayern, germany
+48.811852|10.60371|Lierheim, bayern, germany
+48.36068|10.56865|Fleinhausen, bayern, germany
+48.529861|11.5063|Pfaffenhofen, bayern, germany
+48.29048|10.655609|Fischach, bayern, germany
+48.481209|10.81711|Achsheim, bayern, germany
+48.631618|10.81694|Druisheim, bayern, germany
+48.45784|12.11646|Lech, bayern, germany
+48.305439|12.26704|Steeg, bayern, germany
+47.794926|12.533549|Vorderhornbach, bayern, germany
+48.917194|11.407995|Lechaschau, bayern, germany
+47.56939|10.698997|Füssen, bayern, germany
+47.56939|10.698997|Füssen_K, bayern, germany
+48.917194|11.407995|Forggensee Werkszufluss, bayern, germany
+48.917194|11.407995|Roßhaupten Seepegel, bayern, germany
+48.917194|11.407995|Forggensee Werksabfluss, bayern, germany
+47.696838|10.79631|Lechbruck, bayern, germany
+48.917194|11.407995|Urspring KW, bayern, germany
+48.917194|11.407995|Dornau KW, bayern, germany
+48.917194|11.407995|Landsberg OW, bayern, germany
+48.917194|11.407995|Landsberg KW, bayern, germany
+48.049541|10.87658|Landsberg, bayern, germany
+48.917194|11.407995|Merching KW, bayern, germany
+48.297298|10.91549|Haunstetten, bayern, germany
+48.917194|11.407995|Augsburg u. d. Wertachmündung, bayern, germany
+50.08911|9.143986|Augsburg A8-Brücke, bayern, germany
+48.45784|12.11646|Lech, bayern, germany
+47.794926|12.533549|Vorderhornbach, bayern, germany
+47.583302|10.55|Pfronten Ried, bayern, germany
+48.362202|12.24422|Vils, bayern, germany
+48.917194|11.407995|Vilsen, bayern, germany
+48.750861|12.961006|Moos, bayern, germany
+47.70462|10.20131|Eschach, bayern, germany
+48.629798|11.309575|Brunnen, bayern, germany
+47.643421|10.82781|Trauchgau, bayern, germany
+47.643421|10.82781|Trauchgau, bayern, germany
+47.62364|9.89454|Engen, bayern, germany
+47.602424|10.412055|Wertach, bayern, germany
+48.917194|11.407995|Sebastianskapelle, bayern, germany
+48.917194|11.407995|Grüntensee Seepegel, bayern, germany
+48.917194|11.407995|Haslach Werksabfluss, bayern, germany
+48.03109|10.91272|Thalhofen, bayern, germany
+47.832774|10.640791|Biessenhofen, bayern, germany
+48.062279|10.64022|Türkheim, bayern, germany
+48.382599|10.8804|Augsburg Oberhausen, bayern, germany
+47.602424|10.412055|Wertach, bayern, germany
+47.705802|10.511475|Görisried, bayern, germany
+47.74728|10.57429|Leuterschach, bayern, germany
+47.77172|10.50571|Unterthingau, bayern, germany
+47.824322|10.65194|Hörmanshofen, bayern, germany
+48.037287|10.728889|Buchloe, bayern, germany
+48.147682|10.756322|Langerringen, bayern, germany
+48.917194|11.407995|Langerringen Hochwasserlauf, bayern, germany
+50.37485|11.77903|Berg, bayern, germany
+48.917194|11.407995|Neu Ulm, Bad Held, bayern, germany
+48.917194|11.407995|Günzburg u. d. Günzmündung, bayern, germany
+48.576092|10.49689|Dillingen, bayern, germany
+48.718145|10.780483|Donauwörth, bayern, germany
+48.746395|11.015465|Bertoldsheim OW, bayern, germany
+48.746395|11.015465|Bertoldsheim KW, bayern, germany
+48.742684|11.157898|Bittenbrunn KW, bayern, germany
+48.737251|11.17855|Neuburg, bayern, germany
+47.770399|10.354503|Neuburg Q, bayern, germany
+48.762365|11.42523|Ingolstadt OW, bayern, germany
+48.917194|11.407995|Ingolstadt Luitpoldstraße, bayern, germany
+48.770401|11.61813|Vohburg, bayern, germany
+49.688332|12.04195|Neustadt, bayern, germany
+48.916145|11.8705|Kelheim, bayern, germany
+48.91436|11.91577|Kelheimwinzer, bayern, germany
+49.15295|12.76342|Oberndorf, bayern, germany
+50.08911|9.143986|Regensburg Eiserne Brücke, bayern, germany
+49.0233|12.1497|Schwabelweis, bayern, germany
+48.965042|12.381911|Pfatter, bayern, germany
+48.881433|12.57373|Straubing, bayern, germany
+48.87986|12.74861|Pfelling, bayern, germany
+48.831323|12.962201|Deggendorf, bayern, germany
+48.677623|13.118401|Hofkirchen, bayern, germany
+48.633331|13.18333|Vilshofen, bayern, germany
+48.573177|13.458095|Passau, bayern, germany
+50.127846|11.995059|Marktleuthen, bayern, germany
+50.097092|12.22268|Hohenberg, bayern, germany
+50.020779|12.10888|Lorenzreuth, bayern, germany
+50.056006|12.187321|Arzberg, bayern, germany
+50.0016|12.084628|Marktredwitz, bayern, germany
+49.93705|12.29048|Dobrigau, bayern, germany
+50.004117|12.3054|Waldsassen, bayern, germany
+50.185476|11.849349|Weißdorf, bayern, germany
+50.262533|11.933748|Oberkotzau, bayern, germany
+50.321603|11.918732|Hof, bayern, germany
+48.917194|11.407995|Förmitz Speicherzufluss, bayern, germany
+48.917194|11.407995|Förmitz Seepegel, bayern, germany
+48.917194|11.407995|Förmitz Speicherabfluss, bayern, germany
+50.1833|11.9667|Fahrenbühl, bayern, germany
+50.247855|12.03307|Rehau, bayern, germany
+49.782028|12.2067|Eppenreuth, bayern, germany
+48.917194|11.407995|Untreusee Seepegel, bayern, germany
+49.798222|11.32479|Moschendorf, bayern, germany
+50.279049|11.98046|Kautendorf, bayern, germany
+50.01405|11.52173|Hölle, bayern, germany
+48.803598|13.09884|Auerbach, bayern, germany
+48.52715|12.46305|Aham, bayern, germany
+48.917194|11.407995|Marklkofen Werkszufluß, bayern, germany
+48.917194|11.407995|Marklkofen Seepegel, bayern, germany
+48.917194|11.407995|Marklkofen Werksabfluß, bayern, germany
+50.12867|9.82298|Neumühle, bayern, germany
+48.610649|12.69448|Rottersdorf, bayern, germany
+48.638309|12.92768|Reichstorf, bayern, germany
+48.739799|11.87537|Grafenmühle, bayern, germany
+48.448555|12.355775|Vilsbiburg, bayern, germany
+48.498329|12.3442|Dietelskirchen, bayern, germany
+48.393169|11.49076|Kollbach, bayern, germany
+48.39724|12.76472|Bruckhäuser, bayern, germany
+48.39724|12.76472|Bruckhäuser, bayern, germany
+48.413101|11.7581|Neustift, bayern, germany
+48.28355|11.02379|Hörmannsberg, bayern, germany
+48.917194|11.407995|Schrottenbaummühle, bayern, germany
+48.665482|13.23945|Kalteneck, bayern, germany
+48.917194|11.407995|Taferlruck, bayern, germany
+48.840352|13.337746|Schönberg, bayern, germany
+48.917194|11.407995|Rachel-Diensthütte, bayern, germany
+48.816051|13.35964|Eberhardsreuth, bayern, germany
+48.85569|13.396812|Grafenau, bayern, germany
+48.719125|13.461536|Fürsteneck, bayern, germany
+48.84753|13.52976|Unterkashof, bayern, germany
+49.63055|10.73628|Linden, bayern, germany
+48.736895|13.523089|Röhrnbach, bayern, germany
+47.794926|12.533549|Magerbach, bayern, germany
+48.917194|11.407995|Telfs, bayern, germany
+48.917194|11.407995|Innsbruck, bayern, germany
+48.917194|11.407995|Rotholz, bayern, germany
+47.794926|12.533549|Brixlegg, bayern, germany
+47.64804|12.172106|Oberaudorf, bayern, germany
+48.917194|11.407995|Rosenheim o.d. Mangfallmündung, bayern, germany
+48.917194|11.407995|Rosenheim u.d. Mangfallmündung, bayern, germany
+48.060799|12.2332|Wasserburg, bayern, germany
+48.18185|12.42858|Kraiburg, bayern, germany
+48.243279|12.51893|Mühldorf, bayern, germany
+47.941818|12.8717|Eschelbach, bayern, germany
+47.94182|12.871705|Eschelbach Q, bayern, germany
+48.917194|11.407995|Braunau-Simbach KW, bayern, germany
+47.794926|12.533549|Schärding, bayern, germany
+48.917194|11.407995|Schärding Q, bayern, germany
+48.917194|11.407995|Passau Ingling KW, bayern, germany
+48.917194|11.407995|Passau Ingling, bayern, germany
+48.573177|13.458095|Passau, bayern, germany
+47.794926|12.533549|Bleyerbrücke, bayern, germany
+47.657256|12.154806|Bad Trißl, bayern, germany
+49.75346|10.775455|Mühlhausen, bayern, germany
+47.88937|12.2427|Krottenmühl, bayern, germany
+47.853514|12.184523|Stephanskirchen, bayern, germany
+47.727489|11.74369|St. Quirin, bayern, germany
+47.769588|11.77448|Schmerold, bayern, germany
+47.890957|11.773333|Valley, bayern, germany
+47.894379|11.85354|Feldolling, bayern, germany
+48.917194|11.407995|Bad Aibling Willinger Brücke, bayern, germany
+47.85652|12.128755|Rosenheim, bayern, germany
+48.486012|10.92047|Oberach, bayern, germany
+47.644944|11.745261|Bad Kreuth, bayern, germany
+47.60828|10.29613|Rottach, bayern, germany
+47.715868|11.72078|Bad Wiessee, bayern, germany
+47.715868|11.72078|Bad Wiessee, bayern, germany
+47.735504|11.862824|Schliersee, bayern, germany
+47.78914|11.83342|Miesbach, bayern, germany
+47.708481|11.93235|Stauden, bayern, germany
+48.917194|11.407995|Erb, bayern, germany
+48.849998|11.3|Mühltal, bayern, germany
+47.924591|11.99005|Beyharting, bayern, germany
+47.863862|12.010397|Bad Aibling, bayern, germany
+47.863862|12.010397|Bad Aibling, bayern, germany
+47.77336|12.008082|Bad Feilnbach, bayern, germany
+47.77336|12.008082|Bad Feilnbach, bayern, germany
+47.83189|12.09127|Hohenofen, bayern, germany
+48.126165|11.583095|Au_, bayern, germany
+47.85652|12.128755|Rosenheim, bayern, germany
+47.85652|12.128755|Rosenheim Q, bayern, germany
+48.5|11.33333|Weichselbaum, bayern, germany
+47.993448|12.007871|Aßling, bayern, germany
+47.804695|12.855745|Anger, bayern, germany
+47.84153|11.9563|Weg, bayern, germany
+48.917194|11.407995|Dorfen OW, bayern, germany
+48.27304|12.149985|Dorfen, bayern, germany
+48.283298|12.6167|Engfurt, bayern, germany
+48.229408|12.13712|Großschwindau, bayern, germany
+48.085072|12.4381|Stock, bayern, germany
+47.934269|12.47798|Seebruck, bayern, germany
+48.00256|12.53576|Altenmarkt a. d. A., bayern, germany
+48.027177|12.55599|Trostberg, bayern, germany
+48.167389|12.72925|Burgkirchen, bayern, germany
+48.027177|12.55599|Trostberg, bayern, germany
+48.152088|12.68447|Gufflham, bayern, germany
+48.73275|11.81329|St. Johann, bayern, germany
+48.91407|12.86632|Staudach, bayern, germany
+47.676908|12.471518|Reit im Winkl, bayern, germany
+47.7286|12.39746|Mühlau, bayern, germany
+47.738288|12.458967|Unterwössen, bayern, germany
+47.820285|12.479975|Übersee, bayern, germany
+47.811871|12.37372|Bernau, bayern, germany
+47.778389|12.32455|Aschau, bayern, germany
+47.855549|12.34283|Prien, bayern, germany
+48.917194|11.407995|Dickertsmühle, bayern, germany
+47.807304|12.590244|Bergen, bayern, germany
+47.844185|12.542529|Grabenstätt, bayern, germany
+49.78051|9.87691|Hochberg, bayern, germany
+48.917194|11.407995|Traunstein Heilig-Geist, bayern, germany
+49.20607|12.644795|Stein bei Altenmarkt, bayern, germany
+47.73122|12.6632|Fritz am Sand, bayern, germany
+47.82144|12.651231|Siegsdorf, bayern, germany
+47.828152|12.65189|Wernleiten, bayern, germany
+47.921894|12.28213|Golling, bayern, germany
+48.716671|12.21667|Salzburg, bayern, germany
+47.605345|10.353363|Laufen Siegerstetter Keller, bayern, germany
+49.15295|12.76342|Oberndorf, bayern, germany
+48.15833|12.832882|Burghausen, bayern, germany
+48.917194|11.407995|Obergäu, bayern, germany
+48.917194|11.407995|Berchtesgaden-Klärwerk, bayern, germany
+47.615089|12.94898|Ilsank, bayern, germany
+47.63353|12.9793|Stanggass, bayern, germany
+47.589951|12.99043|Königssee, bayern, germany
+47.794926|12.533549|Schwöbbrücke, bayern, germany
+47.744999|12.9121|Weißbach, bayern, germany
+47.679062|12.82624|Unterjettenberg, bayern, germany
+48.917194|11.407995|Staufeneck, bayern, germany
+48.917194|11.407995|Siezenheim, bayern, germany
+47.769664|12.912015|Piding, bayern, germany
+47.849745|12.822045|Teisendorf, bayern, germany
+50.012335|12.126365|Ammerberg, bayern, germany
+47.849998|12.95|Brodhausen, bayern, germany
+47.80101|12.70372|Hammer, bayern, germany
+47.820591|12.90621|Thundorf, bayern, germany
+47.794926|12.533549|Buchwinkel, bayern, germany
+47.916401|12.822|Unverzug, bayern, germany
+47.932449|12.73618|Waging, bayern, germany
+48.565392|12.739303|Simbach, bayern, germany
+49.170502|11.24567|Jahrsdorf, bayern, germany
+47.794926|12.533549|Mamling, bayern, germany
+48.036572|12.02233|Haging, bayern, germany
+48.312889|12.48732|Kinning, bayern, germany
+49.63055|10.73628|Linden, bayern, germany
+48.917194|11.407995|Postmünster Seepegel, bayern, germany
+48.419485|12.904865|Postmünster, bayern, germany
+48.446861|13.08563|Birnbach, bayern, germany
+48.438099|13.33631|Ruhstorf, bayern, germany
+48.433331|12.56667|Panzing, bayern, germany
+48.405613|12.048883|Kirchberg, bayern, germany
+48.917194|11.407995|Eggenfelden Seepegel, bayern, germany
+48.402381|12.76292|Eggenfelden, bayern, germany
+48.419485|12.904865|Postmünster, bayern, germany
+48.394956|13.005287|Triftern, bayern, germany
+48.917194|11.407995|Erlachleiten, bayern, germany
+48.917194|11.407995|Rannasäge, bayern, germany
+47.546108|9.68397|Lindau, bayern, germany
+47.8396|11.9587|Mainz, bayern, germany
+47.556622|9.69017|Aeschach, bayern, germany
+47.554211|10.022749|Oberstaufen, bayern, germany
+47.650002|9.96667|Zwirkenberg, bayern, germany
+47.636799|10.09212|Seltmans, bayern, germany
+50.099895|11.375625|Mainleus, bayern, germany
+50.167439|11.15099|Schwürbitz, bayern, germany
+50.146418|11.063667|Lichtenfels, bayern, germany
+49.952984|10.873965|Kemmern, bayern, germany
+49.928612|10.75051|Trunstadt, bayern, germany
+49.928617|10.75051|Trunstadt Q, bayern, germany
+47.592459|10.633538|Schweinfurt Neuer Hafen, bayern, germany
+49.862389|10.2148|Astheim, bayern, germany
+49.792775|9.936395|Würzburg, bayern, germany
+50.43269|11.36094|Steinbach, bayern, germany
+48.917194|11.407995|Wertheim, bayern, germany
+49.784092|9.440923|Faulbach, bayern, germany
+49.478273|11.975989|Freudenberg, bayern, germany
+49.720381|9.215675|Kleinheubach, bayern, germany
+49.9328|9.13592|Obernau, bayern, germany
+48.917194|11.407995|Mainflingen, bayern, germany
+47.794926|12.533549|Krotzenburg, bayern, germany
+48.917194|11.407995|Frankfurt a.M. Osthafen, bayern, germany
+48.917194|11.407995|Raunheim, bayern, germany
+50.049839|11.67474|Bad Berneck, bayern, germany
+50.091675|11.528455|Ködnitz, bayern, germany
+50.049839|11.67474|Bad Berneck, bayern, germany
+49.57518|12.09254|Neudorf, bayern, germany
+50.068729|11.550526|Trebgast, bayern, germany
+50.10699|11.60672|Wirsberg, bayern, germany
+50.118591|11.50487|Kauerndorf, bayern, germany
+50.119202|11.6134|Adlerhütte, bayern, germany
+48.917194|11.407995|Oberhammer, bayern, germany
+50.134506|11.527697|Untersteinach, bayern, germany
+49.845485|11.623699|Creußen, bayern, germany
+49.725658|11.26687|Schlehenmühle, bayern, germany
+49.945189|11.571023|Bayreuth, bayern, germany
+50.07555|11.431|Unterzettlitz, bayern, germany
+49.89616|11.66165|Gampelmühle, bayern, germany
+49.869308|11.69566|Birk, bayern, germany
+50.134506|11.527697|Untersteinach, bayern, germany
+50.08405|11.238625|Weismain, bayern, germany
+48.917194|11.407995|Streitmühle, bayern, germany
+48.917194|11.407995|Rieblich, bayern, germany
+48.917194|11.407995|Erlabrück, bayern, germany
+50.182369|11.22585|Unterlangenstadt, bayern, germany
+50.329521|11.55709|Langenau, bayern, germany
+48.917194|11.407995|Mauthaus Seepegel, bayern, germany
+48.917194|11.407995|Mauthaus Kleines Meßwehr, bayern, germany
+48.917194|11.407995|Mauthaus Großes Meßwehr, bayern, germany
+50.322201|11.4929|Mauthaus, bayern, germany
+50.322201|11.4929|Mauthaus, bayern, germany
+48.917194|11.407995|Bernstein a.W., bayern, germany
+50.267595|11.473162|Wallenfels, bayern, germany
+50.324329|11.28549|Neukenroth, bayern, germany
+50.370491|11.30091|Friedersdorf, bayern, germany
+49.276421|12.18103|Steinberg, bayern, germany
+50.278118|11.16008|Fürth am Berg, bayern, germany
+48.917194|11.407995|Almerswind, bayern, germany
+48.917194|11.407995|Schönstädt Seepegel, bayern, germany
+50.34412|11.02787|Schönstädt, bayern, germany
+50.263202|10.966202|Coburg, bayern, germany
+48.585678|11.37474|Schenkenau, bayern, germany
+48.917194|11.407995|Almerswind, bayern, germany
+50.279765|11.947435|Döhlau, bayern, germany
+50.302841|11.05809|Mönchröden, bayern, germany
+48.975078|12.755231|Neukirchen, bayern, germany
+50.313011|10.97615|Oberlauter, bayern, germany
+50.29744|10.92004|Kösfeld, bayern, germany
+48.917194|11.407995|Goldbergsee Seepegel, bayern, germany
+48.917194|11.407995|Goldbergsee Ablauf, bayern, germany
+49.488159|10.7426|Heinersdorf, bayern, germany
+50.240829|10.78523|Autenhausen, bayern, germany
+50.127134|10.855133|Untermerzbach, bayern, germany
+49.994881|9.57237|Lohr, bayern, germany
+50.006401|10.8392|Leucherhof, bayern, germany
+50.145234|10.738051|Pfarrweisach, bayern, germany
+49.54134|10.96137|Hüttendorf, bayern, germany
+49.83123|10.926825|Pettstadt, bayern, germany
+49.89178|10.89334|Bamberg, bayern, germany
+48.90114|12.62437|Roth Kläranlage, bayern, germany
+49.350182|11.05808|Katzwang, bayern, germany
+50.12867|9.82298|Neumühle, bayern, germany
+49.402611|10.46377|Mitteldachstetten (neu), bayern, germany
+49.366852|10.49158|Oberheßbach, bayern, germany
+49.300686|10.572037|Ansbach, bayern, germany
+48.90114|12.62437|Wernfels Kläranlage, bayern, germany
+49.300686|10.572037|Ansbach, bayern, germany
+49.120491|11.00271|Seemannsmühle, bayern, germany
+49.152401|11.01047|Mühlstetten, bayern, germany
+49.055241|10.9972|Weiboldshausen, bayern, germany
+48.917194|11.407995|Brombachsee Vorsperre, bayern, germany
+48.917194|11.407995|Brombachsee Hauptsperre, bayern, germany
+48.917194|11.407995|Brombachsee Hauptsperre Ablauf, bayern, germany
+48.014118|10.201294|Roth Bleiche, bayern, germany
+48.917194|11.407995|Rothsee Hauptsperre, bayern, germany
+48.917194|11.407995|Rothsee Hauptsperre Ablauf, bayern, germany
+49.239182|11.05586|Rothaurach, bayern, germany
+49.114059|11.64923|Rasch, bayern, germany
+49.355957|11.140837|Wendelstein, bayern, germany
+49.329105|11.022695|Schwabach, bayern, germany
+49.394939|10.7346|Lentersdorf, bayern, germany
+49.424709|10.89828|Weinzierlein, bayern, germany
+49.357755|10.697279|Bruckberg, bayern, germany
+49.697418|10.17796|Michelfeld, bayern, germany
+48.917194|11.407995|Fischstein HW, bayern, germany
+49.60619|11.51368|Güntersthal, bayern, germany
+48.497231|13.3116|Hohenstadt, bayern, germany
+49.5117|11.27881|Lauf, bayern, germany
+48.917194|11.407995|Nürnberg Lederersteg, bayern, germany
+49.756415|11.543386|Pegnitz, bayern, germany
+49.503509|11.510683|Pommelsbrunn, bayern, germany
+48.532682|10.799256|Schnaittach Markt, bayern, germany
+49.48243|11.23872|Röthenbach, bayern, germany
+49.481595|10.89191|Hiltmannsdorf HW, bayern, germany
+50.18745|10.54979|Stöckach, bayern, germany
+49.495121|10.75617|Laubendorf, bayern, germany
+49.509418|10.90156|Kreppendorf, bayern, germany
+48.917194|11.407995|Frauenkreuz, bayern, germany
+49.551298|10.717224|Emskirchen, bayern, germany
+49.569408|10.96093|Frauenaurach, bayern, germany
+49.591141|11.21957|Büg, bayern, germany
+49.59795|11.00258|Erlangen, bayern, germany
+49.93685|11.290877|Hollfeld, bayern, germany
+49.780548|11.33409|Behringersmühle, bayern, germany
+49.80291|11.26103|Muggendorf, bayern, germany
+49.88444|11.33402|Plankenfels, bayern, germany
+49.769301|11.406816|Pottenstein, bayern, germany
+49.951488|12.27207|Hungenberg, bayern, germany
+49.822378|11.191048|Unterleinleiter, bayern, germany
+48.917194|11.407995|Bärenthal, bayern, germany
+49.480941|10.380764|Illesheim, bayern, germany
+49.858043|9.694945|Birkenfeld, bayern, germany
+49.622688|10.66875|Rappoldshofen, bayern, germany
+48.917194|11.407995|Laufermühle, bayern, germany
+49.665635|10.463995|Scheinfeld, bayern, germany
+49.799622|10.92576|Röbersdorf, bayern, germany
+48.917194|11.407995|Burghaslach Rückhaltebecken, bayern, germany
+48.801651|13.5603|Schönbrunn, bayern, germany
+49.555969|11.490902|Vorra, bayern, germany
+50.074429|10.51928|Römershofen, bayern, germany
+49.906284|10.388667|Dingolshausen, bayern, germany
+49.903889|10.3025|Brünnstadt, bayern, germany
+49.812599|10.28973|Reupelsdorf, bayern, germany
+49.788921|10.27903|Atzhausen, bayern, germany
+49.66564|10.143285|Marktbreit, bayern, germany
+49.792775|9.936395|Würzburg, bayern, germany
+50.043505|10.156515|Geldersheim, bayern, germany
+49.98579|10.12585|Ettleben, bayern, germany
+49.977067|9.96782|Arnstein, bayern, germany
+49.591808|9.96384|Sachsenheim, bayern, germany
+50.29932|10.46766|Bad Königshofen i. Grabfeld, bayern, germany
+50.307709|10.206241|Salz, bayern, germany
+48.917194|11.407995|Bad Kissingen Prinzreg.-bau, bayern, germany
+48.917194|11.407995|Bad Kissingen Golfplatz, bayern, germany
+50.093491|9.73528|Wolfsmünster, bayern, germany
+50.357239|10.4257|Gollmuthhausen, bayern, germany
+50.478409|10.18462|Nordheim vor der Rhön, bayern, germany
+50.377895|10.256829|Unsleben, bayern, germany
+50.305558|11.283022|Stockheim, bayern, germany
+50.38773|10.22156|Wechterswinkel, bayern, germany
+50.39756|10.0352|Unterweißenbrunn, bayern, germany
+50.349998|10.18333|Schweinhof, bayern, germany
+50.215141|10.2344|Poppenlauer, bayern, germany
+50.249077|10.194489|Münnerstadt, bayern, germany
+50.338131|9.99632|Waldberg, bayern, germany
+50.198886|9.960995|Oberthulba, bayern, germany
+50.217941|9.9723|Schlimpfhof, bayern, germany
+50.309205|9.787585|Bad Brückenau, bayern, germany
+48.917194|11.407995|Bad Brückenau Staatsbad, bayern, germany
+50.19319|9.617225|Mittelsinn, bayern, germany
+48.917194|11.407995|Jossa, bayern, germany
+50.063925|9.470735|Frammersbach, bayern, germany
+50.041114|9.517124|Partenstein, bayern, germany
+49.870175|9.603835|Hafenlohr, bayern, germany
+49.775951|9.65306|Wüstenzell, bayern, germany
+49.328789|10.19619|Bockenfeld, bayern, germany
+49.218071|10.30519|Archshofen, bayern, germany
+48.917194|11.407995|Bad Mergentheim, bayern, germany
+48.917194|11.407995|Tauberbischofsheim, bayern, germany
+49.517064|10.009167|Bieberehren, bayern, germany
+49.727855|12.287965|Hardheim, bayern, germany
+49.715957|9.266842|Bürgstadt, bayern, germany
+49.667105|9.215332|Weilbach, bayern, germany
+48.917194|11.407995|Michelstadt, bayern, germany
+48.917194|11.407995|Hainstadt, bayern, germany
+49.857498|9.28197|Hobbach, bayern, germany
+49.830791|9.20689|Rück, bayern, germany
+49.998574|9.182527|Goldbach, bayern, germany
+48.917194|11.407995|Harreshausen, bayern, germany
+50.086008|9.24513|Schöllkrippen, bayern, germany
+50.086317|9.073625|Alzenau, bayern, germany
+48.917194|11.407995|Gelnhausen, bayern, germany
+48.917194|11.407995|Hanau, bayern, germany
+48.917194|11.407995|Bad Vilbel, bayern, germany
+49.540138|12.14294|Unterköblitz, bayern, germany
+49.327703|12.108496|Schwandorf, bayern, germany
+49.240768|12.0826|Münchshofen, bayern, germany
+49.126228|11.9427|Heitzenhofen, bayern, germany
+49.109185|11.933775|Duggendorf, bayern, germany
+49.803145|12.15521|Windischeschenbach, bayern, germany
+49.688332|12.04195|Neustadt, bayern, germany
+49.67403|12.15633|Weiden, bayern, germany
+48.917194|11.407995|Iglersreuth Speicherzufluss, bayern, germany
+48.917194|11.407995|Liebenstein Seepegel, bayern, germany
+48.917194|11.407995|Liebenstein Werksabfluss, bayern, germany
+49.816669|12.18333|Johannisthal, bayern, germany
+49.788071|12.32937|Geisleithen, bayern, germany
+49.83698|12.04992|Erbendorf, bayern, germany
+49.822842|11.88882|Unterbruck, bayern, germany
+48.917194|11.407995|Unterbruck Flutmulde, bayern, germany
+49.762785|11.942195|Pressath, bayern, germany
+49.776199|12.2601|Wildenau, bayern, germany
+49.71797|11.911775|Grafenwöhr, bayern, germany
+49.542068|12.12856|Kettnitzmühle, bayern, germany
+49.616879|12.49152|Pfrentsch, bayern, germany
+49.576229|12.35035|Böhmischbruck, bayern, germany
+47.599191|11.42364|Trausnitz u. d. Mühle, bayern, germany
+49.621639|12.42697|Lohma, bayern, germany
+49.419121|12.70402|Höll, bayern, germany
+48.917194|11.407995|Hocha Seepegel, bayern, germany
+48.917194|11.407995|Hocha Perlseeabfluss, bayern, germany
+48.917194|11.407995|Rötz Speicherzufluss, bayern, germany
+48.917194|11.407995|Eixendorf Seepegel, bayern, germany
+48.917194|11.407995|Eixendorf Speicherabfluss, bayern, germany
+47.995529|12.17184|Warnbach, bayern, germany
+49.437642|12.583596|Tiefenbach, bayern, germany
+48.917194|11.407995|Witzelsmühle Seepegel, bayern, germany
+48.917194|11.407995|Witzelsmühle Silberseeabfluss, bayern, germany
+49.432201|12.4599|Untereppenried, bayern, germany
+49.494801|12.4453|Gartenried, bayern, germany
+49.40958|12.30233|Fronhof, bayern, germany
+49.450031|11.98613|Unterpennading, bayern, germany
+49.632332|11.81805|Gressenwöhr, bayern, germany
+49.610192|11.807758|Vilseck, bayern, germany
+49.5332|11.800735|Hahnbach, bayern, germany
+49.446871|11.862729|Amberg, bayern, germany
+49.26847|11.921|Schmidmühlen, bayern, germany
+49.20293|11.94569|Dietldorf, bayern, germany
+48.56229|13.12472|Langenbruck, bayern, germany
+49.764172|12.10787|Obersdorf, bayern, germany
+49.446871|11.862729|Amberg, bayern, germany
+48.194163|12.695194|Kastl, bayern, germany
+48.375013|12.079842|Stettkirchen, bayern, germany
+48.366692|11.70374|Pulling, bayern, germany
+49.197788|12.749889|Chamerau, bayern, germany
+49.220479|12.662892|Cham, bayern, germany
+47.794926|12.533549|Kienhof, bayern, germany
+49.196722|12.269519|Nittenau, bayern, germany
+48.853771|12.99344|Marienthal, bayern, germany
+49.014722|13.233211|Zwiesel, bayern, germany
+49.03864|12.994765|Teisnach, bayern, germany
+48.862728|13.48394|Sägmühle, bayern, germany
+48.917194|11.407995|Viechtach Reibenmühle, bayern, germany
+49.014722|13.233211|Zwiesel, bayern, germany
+49.555315|11.535814|Hirschbach, bayern, germany
+48.917194|11.407995|TWT Frauenau Seepegel, bayern, germany
+48.917194|11.407995|Lohmannmühle, bayern, germany
+49.03864|12.994765|Teisnach, bayern, germany
+49.175358|13.104796|Lohberg, bayern, germany
+49.17366|12.85658|Kötzting, bayern, germany
+47.599191|11.42364|Gogl-Mühle, bayern, germany
+49.30009|12.915685|Eschlkam, bayern, germany
+49.30699|12.84503|Furth i. Wald, bayern, germany
+49.243938|12.73065|Kothmaißling, bayern, germany
+49.288361|12.9221|Leming, bayern, germany
+49.319698|12.88743|Ösbühl, bayern, germany
+49.692169|12.38688|Hammermühle, bayern, germany
+48.93818|12.194911|Köfering, bayern, germany
+48.91494|12.42781|Schönach, bayern, germany
+48.791901|12.28408|Grafentraubach, bayern, germany
+48.809755|12.565885|Salching, bayern, germany
+48.818939|12.70094|Haberkofen, bayern, germany
+48.831323|12.962201|Deggendorf, bayern, germany
+47.441778|11.260956|Mittenwald, bayern, germany
+48.917194|11.407995|Rißbachdüker, bayern, germany
+48.917194|11.407995|Sylvensteinsee Gesamtzufluss, bayern, germany
+48.917194|11.407995|Sylvensteinsee Seepegel, bayern, germany
+48.917194|11.407995|Sylvensteinsee Abfluss, bayern, germany
+48.917194|11.407995|Sylvenstein, bayern, germany
+47.680233|11.575157|Lenggries, bayern, germany
+47.794926|12.533549|Bad Tölz B472, bayern, germany
+50.08911|9.143986|Bad Tölz Brücke, bayern, germany
+47.919571|11.4494|Puppling, bayern, germany
+48.019187|11.486799|Baierbrunn, bayern, germany
+48.136415|11.577531|München, bayern, germany
+48.217245|11.717915|Speichersee Ismaning, bayern, germany
+48.400795|11.743765|Freising, bayern, germany
+48.886753|12.917398|Landshut Birket, bayern, germany
+48.917194|11.407995|Landshut Flutmulde, bayern, germany
+48.672821|12.69422|Landau, bayern, germany
+48.778312|12.871223|Plattling, bayern, germany
+48.917194|11.407995|Klamm, bayern, germany
+50.26498|10.90541|Weidach, bayern, germany
+47.441778|11.260956|Mittenwald, bayern, germany
+48.917194|11.407995|Rißbachklamm, bayern, germany
+48.917194|11.407995|Fischbachwehr Gesamtzufluss, bayern, germany
+48.917194|11.407995|Fischbachwehr Abfluss, bayern, germany
+48.917194|11.407995|Grasbergstollen, bayern, germany
+48.917194|11.407995|Dürrach, bayern, germany
+47.588534|11.315171|Walchen, bayern, germany
+47.588531|11.31517|Walchensee, bayern, germany
+48.917194|11.407995|Krün KW, bayern, germany
+47.794926|12.533549|Peternerbrücke, bayern, germany
+48.513401|11.3826|Sachenbach, bayern, germany
+47.748108|11.579933|Gaißach, bayern, germany
+47.835171|11.53593|Bairawies, bayern, germany
+48.917194|11.407995|Garmisch o. d. Partnachmündung, bayern, germany
+48.917194|11.407995|Garmisch u. d. Partnachmündung, bayern, germany
+47.530022|11.111965|Farchant, bayern, germany
+50.08911|9.143986|Eschenlohe Brücke, bayern, germany
+47.657505|11.315405|Schlehdorf, bayern, germany
+47.63271|11.34409|Altjoch Kochel, bayern, germany
+48.917194|11.407995|Kochelseeschleuse OW, bayern, germany
+48.917194|11.407995|Kochelseeschleuse, bayern, germany
+47.658932|11.36807|Kochel, bayern, germany
+47.76503|11.40247|Maxkron, bayern, germany
+47.827629|11.41258|Beuerberg, bayern, germany
+47.5|11.1167|Partenkirchen, bayern, germany
+47.794926|12.533549|Silberackersteg, bayern, germany
+47.488659|11.17714|Kaltenbrunn, bayern, germany
+47.73296|11.30799|Dürnhausen, bayern, germany
+47.76503|11.40247|Maxkron, bayern, germany
+48.917194|11.407995|Bruggen, bayern, germany
+48.917194|11.407995|München Himmelreichbrücke, bayern, germany
+48.917194|11.407995|München Tierärztl. Hochschule, bayern, germany
+48.400795|11.743765|Freising, bayern, germany
+48.400795|11.743765|Freising, bayern, germany
+48.322262|11.845703|Oberding, bayern, germany
+47.813671|12.4919|Stegen, bayern, germany
+47.813671|12.4919|Stegen, bayern, germany
+48.127555|11.15958|Grafrath, bayern, germany
+48.178546|11.254955|Fürstenfeldbruck, bayern, germany
+48.304958|11.48851|Ampermoching, bayern, germany
+48.839081|12.25073|Inkofen, bayern, germany
+47.794926|12.533549|Neumühlschwaig, bayern, germany
+48.46796|11.93577|Moosburg, bayern, germany
+48.917194|11.407995|Moosburg Q, bayern, germany
+47.598388|11.064467|Oberammergau, bayern, germany
+47.799199|11.063983|Peißenberg, bayern, germany
+47.838879|11.14466|Weilheim, bayern, germany
+47.647659|10.97562|Unternogg, bayern, germany
+47.692329|11.11757|Obernach, bayern, germany
+48.719354|11.111248|Oberhausen, bayern, germany
+47.698585|11.233954|Riegsee, bayern, germany
+47.911434|11.108625|Raisting, bayern, germany
+47.998791|11.17619|Herrsching, bayern, germany
+47.982449|10.99521|Obermühlhausen, bayern, germany
+48.917194|11.407995|Oberfinning Seepegel, bayern, germany
+48.917194|11.407995|Oberfinning Werksabfluss, bayern, germany
+48.033329|11.01667|Unterfinning, bayern, germany
+48.071732|11.083121|Greifenberg, bayern, germany
+47.982449|10.99521|Obermühlhausen, bayern, germany
+48.259414|11.434344|Dachau, bayern, germany
+48.259017|11.36477|Bergkirchen, bayern, germany
+47.99959|11.342172|Starnberg, bayern, germany
+48.0294|11.36909|Leutstetten, bayern, germany
+48.164435|11.475405|Obermenzing, bayern, germany
+47.905062|11.276509|Tutzing, bayern, germany
+47.99959|11.342172|Starnberg, bayern, germany
+47.99947|11.36319|Percha, bayern, germany
+48.308784|11.199499|Odelzhausen, bayern, germany
+48.308784|11.199499|Odelzhausen (neu), bayern, germany
+48.422975|11.523823|Hohenkammer, bayern, germany
+48.515676|11.897399|Mauern, bayern, germany
+50.37485|11.77903|Berg, bayern, germany
+48.917194|11.407995|Erding Stadtwehr, bayern, germany
+48.318722|11.92331|Langengeisling, bayern, germany
+48.318722|11.92331|Langengeisling, bayern, germany
+48.413898|11.9795|Appolding, bayern, germany
+47.794926|12.533549|Operding, bayern, germany
+49.437642|12.583596|Tiefenbach, bayern, germany
+48.556848|12.108017|Altdorf, bayern, germany
+48.734738|12.751097|Wallersdorf, bayern, germany
+52.574265|14.49274|Golzow, brandenburg, germany
+52.37265|12.50559|Brandenburg-Wilhelmsdorf, brandenburg, germany
+53.201012|12.02596|Lockstädt, brandenburg, germany
+52.458466|13.017505|Wenzlow, Forellenanlage, brandenburg, germany
+52.458466|13.017505|Bergerdamm, Wehr OP, brandenburg, germany
+52.458466|13.017505|Rhinsmühlen, Wehr OP, brandenburg, germany
+53.371632|13.69283|Wittstock, brandenburg, germany
+52.458466|13.017505|Lentzker Mühle OP, brandenburg, germany
+52.458466|13.017505|Küstrinchen, Wehr UP, brandenburg, germany
+52.955565|11.944645|Bad Wilsnack, brandenburg, germany
+53.192181|13.14353|Ravensbrück, brandenburg, germany
+52.458466|13.017505|Blankensee, Wehr OP, brandenburg, germany
+52.341679|14.55432|Frankfurt (Oder), brandenburg, germany
+52.458466|13.017505|Reitwein, Überleitung OP, brandenburg, germany
+52.458466|13.017505|Reitwein, Überleitung UP, brandenburg, germany
+52.574265|14.49274|Golzow, brandenburg, germany
+52.458466|13.017505|Bahnitz, Schleuse OP, brandenburg, germany
+53.148289|12.0085|Wolfshagen, brandenburg, germany
+52.458466|13.017505|Damm, Wehr lll OP, brandenburg, germany
+51.89756|14.51379|Babelsberg-Drewitz, brandenburg, germany
+52.458466|13.017505|Fehrbellin, Wehr 19 OP, brandenburg, germany
+53.081131|11.62512|Gadow, brandenburg, germany
+52.458466|13.017505|Jüterbog, Rückhaltebecken Einlauf, brandenburg, germany
+53.311851|12.242109|Meyenburg, brandenburg, germany
+52.458466|13.017505|Perleberg, Schule, brandenburg, germany
+52.458466|13.017505|Sachsenhausen Sohlabsturz, brandenburg, germany
+52.458466|13.017505|Wulkow, Pegel 1, Wehr OP, brandenburg, germany
+52.449902|13.755234|Woltersdorf II, brandenburg, germany
+52.994795|11.7528|Wittenberge, brandenburg, germany
+52.458466|13.017505|Woltersdorf I, Wehr OP, brandenburg, germany
+52.458466|13.017505|Gröben, Wehr OP, brandenburg, germany
+52.458466|13.017505|Grütz, Schleuse OP, brandenburg, germany
+52.458466|13.017505|Hohenofen, Wehr OP, brandenburg, germany
+52.475054|12.845513|Ketzin, brandenburg, germany
+52.458466|13.017505|Brandenburg, Vorstadtschleuse OP, brandenburg, germany
+52.458466|13.017505|Rathenow, Hauptschleuse OP, brandenburg, germany
+52.458466|13.017505|Rathenow, Hauptschleuse UP, brandenburg, germany
+52.408494|12.562564|Wusterhausen, Pegel 12, brandenburg, germany
+52.458466|13.017505|Garz, Schleuse OP, brandenburg, germany
+52.368389|12.54763|Göttin, brandenburg, germany
+53.09071|11.47466|Lenzen, brandenburg, germany
+53.117809|11.9022|Groß Linde, brandenburg, germany
+52.458466|13.017505|Golzow, Wehr OP, brandenburg, germany
+52.458466|13.017505|Pritzwalk, Hainholz, brandenburg, germany
+52.03883|14.32494|Trebitz, brandenburg, germany
+52.424931|12.634909|Havelberg, brandenburg, germany
+52.463829|13.98498|Neue Mühle, brandenburg, germany
+52.408494|12.562564|Prierow 2, brandenburg, germany
+52.458466|13.017505|Schildow-Neu, brandenburg, germany
+51.569072|14.373491|Spremberg, brandenburg, germany
+52.458466|13.017505|Talsperre Spremberg Beckenpegel, brandenburg, germany
+52.458466|13.017505|Bräsinchen Hauptabflusspegel, brandenburg, germany
+52.199022|12.774535|Cottbus Sandower Brücke, brandenburg, germany
+52.458466|13.017505|Lübben Zusammenfluss, brandenburg, germany
+52.458466|13.017505|Leibsch Spreewehr Nr.207a UP, brandenburg, germany
+52.458466|13.017505|Beeskow Spreeschleuse UP, brandenburg, germany
+52.408494|12.562564|Große Tränke Wehr UP 2, brandenburg, germany
+52.391941|13.7702|Hohenbinde, brandenburg, germany
+51.937199|13.85842|Treppendorf, brandenburg, germany
+52.408494|12.562564|Goyatz 1, brandenburg, germany
+52.305886|14.242046|Kersdorf Schleuse OP, brandenburg, germany
+52.305886|14.242046|Kersdorf Schleuse UP, brandenburg, germany
+52.458466|13.017505|Rhinow, Wehr UP, brandenburg, germany
+52.458466|13.017505|Golzow, Wehr UP, brandenburg, germany
+52.458466|13.017505|Prenzlau, Wehr UP, brandenburg, germany
+52.068249|14.75007|Ratzdorf, brandenburg, germany
+52.458466|13.017505|Eisenhüttenstadt, Schachtschleuse UP, brandenburg, germany
+52.139763|14.635067|Eisenhüttenstadt, brandenburg, germany
+52.168221|14.25012|Kietz, brandenburg, germany
+52.408494|12.562564|Frankfurt (Oder) 1, brandenburg, germany
+52.673889|14.43817|Kienitz, brandenburg, germany
+52.847032|13.689928|Hohensaaten-Finow, brandenburg, germany
+52.458466|13.017505|Hohensaaten, Ostschleuse OP, brandenburg, germany
+52.993301|14.17301|Stützkow, brandenburg, germany
+52.458466|13.017505|Schwedt, Oderbrücke, brandenburg, germany
+52.458466|13.017505|Schwedt, Schleuse OP, brandenburg, germany
+53.208179|14.39224|Gartz, brandenburg, germany
+53.2469|14.430365|Mescherin, brandenburg, germany
+52.458466|13.017505|Hohensaaten, Westschleuse OP, brandenburg, germany
+52.458466|13.017505|Hohensaaten, Westschleuse UP, brandenburg, germany
+52.458466|13.017505|Schwedt, Schleuse UP, brandenburg, germany
+52.795021|13.27559|Friedrichsthal, brandenburg, germany
+51.672909|14.74525|Klein Bademeusel, brandenburg, germany
+52.408494|12.562564|Guben 2, brandenburg, germany
+52.408494|12.562564|Biehlen 1, brandenburg, germany
+51.494045|13.759935|Lauchhammer, brandenburg, germany
+51.515375|13.395945|Bad Liebenwerda, brandenburg, germany
+51.693459|13.23141|Herzberg, brandenburg, germany
+51.376113|13.756585|Ortrand, brandenburg, germany
+52.458466|13.017505|Bochowsloos, Wehr OP, brandenburg, germany
+52.458466|13.017505|Bochowsloos, Wehr UP, brandenburg, germany
+52.458466|13.017505|Eisenhüttenstadt, Schachtschleuse OP, brandenburg, germany
+52.458466|13.017505|Müllrose, Freiarche, brandenburg, germany
+52.458466|13.017505|Finkenheerd, Deichsiel OP, brandenburg, germany
+52.458466|13.017505|Finkenheerd, Düker OP, brandenburg, germany
+52.458466|13.017505|Finkenheerd, Düker UP, brandenburg, germany
+52.86763|13.85432|Neuehütte, brandenburg, germany
+52.643205|14.360225|Gusow, Str. n. Letschin, brandenburg, germany
+52.458466|13.017505|Manschnow UP, brandenburg, germany
+53.271715|14.35057|Tantow, brandenburg, germany
+52.458466|13.017505|Ueckermünde, brandenburg, germany
+52.458466|13.017505|Hardenbeck, Wehr UP, brandenburg, germany
+52.408494|12.562564|Koserow, brandenburg, germany
+52.458466|13.017505|Eisenhüttenstadt, Schöpfwerk AP, brandenburg, germany
+52.458466|13.017505|Eisenhüttenstadt, Schöpfwerk BP, brandenburg, germany
+52.458466|13.017505|Brieskow, Schleuse OP, brandenburg, germany
+52.458466|13.017505|Brieskow, Schleuse UP, brandenburg, germany
+52.458466|13.017505|Frankfurt (Oder), Beckmannstraße, brandenburg, germany
+52.458466|13.017505|Parsteinwerder, brandenburg, germany
+52.833965|13.81269|Eberswalde, brandenburg, germany
+52.458466|13.017505|Werbig, Eisenbahnbrücke, brandenburg, germany
+52.693115|14.159745|Bliesdorf, brandenburg, germany
+52.458466|13.017505|Wriezen, Hafen, brandenburg, germany
+52.458466|13.017505|Neutornow, Schöpfwerk AP, brandenburg, germany
+52.458466|13.017505|Manschnow, Wehr OP, brandenburg, germany
+52.458466|13.017505|Manschnow, Wehr UP, brandenburg, germany
+52.458466|13.017505|Golzow, Straßenbrücke UP, brandenburg, germany
+52.56934|14.40316|Neulangsow, brandenburg, germany
+52.572102|14.35419|Gusow, brandenburg, germany
+52.458466|13.017505|Buckow, Parkbrücke, brandenburg, germany
+52.458466|13.017505|Reitwein, Wehr Triftweg OP, brandenburg, germany
+52.458466|13.017505|Reitwein, Wehr Triftweg UP, brandenburg, germany
+52.458466|13.017505|Zechin, Wehr OP, brandenburg, germany
+52.458466|13.017505|Zechin, Wehr UP, brandenburg, germany
+53.126492|14.14782|Herrenhof, brandenburg, germany
+52.458466|13.017505|Solikante, Wehr OP, brandenburg, germany
+52.458466|13.017505|Kienitz, Heberleitung UP, brandenburg, germany
+52.458466|13.017505|Kienitz-Nord, Venturi, brandenburg, germany
+52.458466|13.017505|Neutornow, Schöpfwerk BP, brandenburg, germany
+52.78809|14.24943|Zollbrücke, brandenburg, germany
+52.458466|13.017505|Alttornow, Schöpfwerk BP, brandenburg, germany
+52.458466|13.017505|Alttornow, Schöpfwerk AP, brandenburg, germany
+53.007072|13.119805|Schönermark, brandenburg, germany
+52.458466|13.017505|Blumenhagen, Neue Mühle OP, brandenburg, germany
+52.458466|13.017505|Blumenhagen, Neue Mühle UP, brandenburg, germany
+53.159309|13.84332|Suckow, brandenburg, germany
+53.26429|13.6071|Boitzenburg, brandenburg, germany
+53.40583|13.911481|Göritz, brandenburg, germany
+53.148289|12.0085|Wolfshagen, brandenburg, germany
+53.486752|13.86164|Wilsickow, brandenburg, germany
+52.458466|13.017505|Güstebieser Loose, Überleitung UP, brandenburg, germany
+52.458466|13.017505|Güstebieser Loose, Überleitung OP, brandenburg, germany
+52.458466|13.017505|Genthin, brandenburg, germany
+52.458466|13.017505|Tangermünde, brandenburg, germany
+52.458466|13.017505|Torgau, brandenburg, germany
+52.458466|13.017505|Barby, brandenburg, germany
+52.458466|13.017505|Neue Mühle Schleuse UP, brandenburg, germany
+52.399355|13.047931|Potsdam, brandenburg, germany
+48.661804|9.003595|Diepoldsau, bw, germany
+48.661804|9.003595|Seltmans, bw, germany
+47.717602|10.0544|Rengers, bw, germany
+47.707039|9.8335|Beutelsau, bw, germany
+48.661804|9.003595|Zwirkenberg, bw, germany
+47.683331|9.86667|Epplings, bw, germany
+47.684059|9.8976|Gießen, bw, germany
+47.900002|9.6833|Durlesbach, bw, germany
+48.661804|9.003595|Rainpadent, bw, germany
+47.680752|9.52965|Gerbertshaus, bw, germany
+47.651951|9.4764|Friedrichshafen, bw, germany
+47.651951|9.4764|Friedrichshafen, bw, germany
+48.661804|9.003595|Uhldingen, bw, germany
+47.819851|8.96632|Wahlwies, bw, germany
+47.819851|8.96632|Wahlwies, bw, germany
+47.663849|9.17758|Konstanz, bw, germany
+47.74493|8.97017|Radolfzell, bw, germany
+47.843071|8.8497|Aach, bw, germany
+47.732311|8.83715|Rielasingen, bw, germany
+47.663849|9.17758|Konstanz, bw, germany
+48.683632|9.27892|Neuhausen, bw, germany
+48.661804|9.003595|Rekingen, bw, germany
+47.582031|8.10701|Hauenstein, bw, germany
+47.559448|7.78875|Rheinfelden, bw, germany
+48.661804|9.003595|Basel Rheinhalle, bw, germany
+47.710129|7.53324|Rheinweiler, bw, germany
+48.035135|7.5879|KW Breisach, bw, germany
+48.028198|7.5821|Breisach, bw, germany
+48.292351|7.74182|Kappel, bw, germany
+48.465191|7.81399|Altenheim, bw, germany
+48.560749|7.81326|Kehl-Kronenhof, bw, germany
+48.882488|8.15649|Plittersdorf, bw, germany
+48.661804|9.003595|Lauterbourg, bw, germany
+49.039719|8.31222|Maxau, bw, germany
+48.661804|9.003595|Speyer, bw, germany
+49.486511|8.46678|Mannheim, bw, germany
+48.661804|9.003595|Worms, bw, germany
+48.146179|9.40671|Andelfingen, bw, germany
+47.838631|8.44464|Ewattingen, bw, germany
+47.72036|8.42708|Eberfingen, bw, germany
+48.197659|7.67621|Weisweil, bw, germany
+47.686069|9.42468|Riedern, bw, germany
+48.25061|8.81481|Erzingen, bw, germany
+47.620361|8.32685|Oberlauchringen, bw, germany
+48.661804|9.003595|Untersiggenthal-Sti., bw, germany
+47.76144|8.12792|St. Blasien, bw, germany
+48.34721|8.06609|Zell, bw, germany
+47.59198|7.60479|Basel, bw, germany
+47.626999|7.58103|Märkt, bw, germany
+47.855309|7.78695|Untermünstertal, bw, germany
+47.9156|7.74081|Oberambringen, bw, germany
+48.639|8.09181|Sasbach, bw, germany
+47.798161|8.30605|Ebnet, bw, germany
+48.661804|9.003595|Bleibach-WKA, bw, germany
+48.102779|8.04838|Simonswald, bw, germany
+48.250511|8.21021|Gutach, bw, germany
+48.661804|9.003595|Riegel-Pumpwerksteg, bw, germany
+48.150558|7.7507|Riegel, bw, germany
+48.661804|9.003595|Rheinhausen BW6_16, bw, germany
+48.661804|9.003595|Rheinhausen PW, bw, germany
+48.26873|7.72571|Rust, bw, germany
+48.385929|7.75477|Ottenheim, bw, germany
+48.661804|9.003595|Illentlastung, bw, germany
+48.292431|7.95069|Wittelbach, bw, germany
+48.340172|7.87603|Lahr, bw, germany
+48.31105|8.37253|Schenkenzell, bw, germany
+48.267342|8.36541|Hinterlehengericht, bw, germany
+48.317402|8.21698|Oberwolfach, bw, germany
+48.302891|8.22076|Wolfach, bw, germany
+48.250511|8.21021|Gutach, bw, germany
+48.284222|8.17189|Hausach, bw, germany
+48.34721|8.06609|Zell am Harmersbach, bw, germany
+48.09893|9.79281|Biberach, bw, germany
+48.392391|8.03268|Schwaibach, bw, germany
+48.495731|8.14144|Ramsbach, bw, germany
+48.5312|8.07823|Oberkirch, bw, germany
+48.59087|8.11791|Kappelrodeck, bw, germany
+48.699692|8.1608|Altschweier, bw, germany
+48.510509|8.37142|Baiersbronn, bw, germany
+48.600208|8.38663|Schwarzenberg, bw, germany
+48.606361|8.36092|Schönmünzach, bw, germany
+48.810879|8.30894|Bad Rotenfels, bw, germany
+48.661804|9.003595|Rastatt Hindenburgbrücke, bw, germany
+48.762699|8.24091|Baden-Baden, bw, germany
+48.942471|8.40245|Ettlingen, bw, germany
+49.003891|8.52712|Berghausen, bw, germany
+49.12389|8.60103|Bruchsal, bw, germany
+49.161789|8.63217|Ubstadt, bw, germany
+49.29504|8.70178|Wiesloch, bw, germany
+49.554951|8.67068|Weinheim, bw, germany
+48.661804|9.003595|Weinheim-SKA, bw, germany
+48.167858|8.6275|Rottweil, bw, germany
+48.290539|8.57249|Oberndorf, bw, germany
+48.44611|8.69174|Horb, bw, germany
+48.531731|9.14846|Kirchentellinsfurt, bw, germany
+48.661804|9.003595|Wendlingen-Kläranlage, bw, germany
+48.709599|9.41813|Plochingen, bw, germany
+48.877079|9.27249|Neckargröningen, bw, germany
+48.661804|9.003595|Besigheim SKA, bw, germany
+49.073929|9.15502|Lauffen, bw, germany
+49.19252|9.22512|Neckarsulm, bw, germany
+48.661804|9.003595|Kochendorf OW Schleuse, bw, germany
+49.24445|9.16368|Offenau, bw, germany
+48.661804|9.003595|Gundelsheim-UP, bw, germany
+49.300491|9.14257|Haßmersheim, bw, germany
+48.661804|9.003595|Rockenau-SKA, bw, germany
+49.418758|8.75688|Ziegelhausen (US), bw, germany
+48.661804|9.003595|Heidelberg-Karlstor, bw, germany
+48.661804|9.003595|Mannheim Neckar, bw, germany
+48.661804|9.003595|Horgen-Kläranlage, bw, germany
+48.163239|8.661|Göllsdorf, bw, germany
+48.661804|9.003595|Schömberg-Zulauf, bw, germany
+48.371861|8.57782|Hopfau, bw, germany
+48.27314|8.84929|Balingen, bw, germany
+47.809818|9.17351|Owingen, bw, germany
+48.34684|8.77587|Gruol, bw, germany
+48.4039|8.77806|Bad Imnau, bw, germany
+48.382019|8.88544|Rangendingen, bw, germany
+48.520359|9.04911|Tübingen, bw, germany
+48.531731|8.9606|Pfäffingen, bw, germany
+48.515339|9.15078|Wannweil, bw, germany
+48.559078|9.26834|Riederich, bw, germany
+48.638161|9.32588|Oberensingen, bw, germany
+48.561699|9.46261|Unterlenningen, bw, germany
+48.67247|9.37923|Wendlingen, bw, germany
+48.624599|9.82823|Geislingen, bw, germany
+48.624599|9.82823|Geislingen, bw, germany
+48.69046|9.738|Salach, bw, germany
+48.709599|9.41813|Plochingen, bw, germany
+48.797001|9.79535|Schwäbisch Gmünd, bw, germany
+48.82645|9.54995|Haubersbronn, bw, germany
+47.917349|9.46583|Schorndorf-Bauhof, bw, germany
+48.80368|9.52891|Schorndorf, bw, germany
+48.661804|9.003595|Beutelsbach-Bad, bw, germany
+47.912609|8.2131|Neustadt, bw, germany
+48.98315|9.45862|Oppenweiler, bw, germany
+48.965759|9.2785|Steinheim, bw, germany
+48.961861|9.25904|Murr, bw, germany
+48.661804|9.003595|Erzgrube-Zulauf, bw, germany
+48.585751|8.60074|Altensteig, bw, germany
+48.552059|8.72308|Nagold, bw, germany
+48.714352|8.74034|Calw, bw, germany
+48.890129|8.70025|Pforzheim, bw, germany
+48.968769|9.92533|Lautenhof, bw, germany
+48.804859|8.58364|Höfen, bw, germany
+48.78175|8.51978|Eyachmühle, bw, germany
+48.846439|8.58861|Neuenbürg, bw, germany
+48.890129|8.70025|Pforzheim, bw, germany
+48.47789|8.74879|Eutingen, bw, germany
+48.933819|8.96041|Vaihingen, bw, germany
+48.915409|9.06461|Talhausen, bw, germany
+48.998981|9.14123|Besigheim, bw, germany
+48.822239|9.08982|Hausen, bw, germany
+49.170052|9.26912|Erlenbach, bw, germany
+47.65|8|Stefansweiler Mühle, bw, germany
+48.892811|10.00676|Abtsgmünd, bw, germany
+48.903912|9.96653|Wöllstein, bw, germany
+48.986229|9.74183|Mittelrot, bw, germany
+49.000809|9.76995|Gaildorf, bw, germany
+49.040878|9.90912|Bühlertann, bw, germany
+49.265282|9.75967|Kocherstetten, bw, germany
+49.287258|9.56216|Forchtenberg, bw, germany
+48.661804|9.003595|Ohrnberg-Ohrnwiesen, bw, germany
+48.661804|9.003595|Ohrnberg-Ort, bw, germany
+49.236832|9.32711|Neuenstadt, bw, germany
+48.371712|8.94|Stein, bw, germany
+49.224659|9.21851|Kochendorf, bw, germany
+48.928268|10.1393|Schwabsberg, bw, germany
+49.030571|10.09845|Jagstzell, bw, germany
+49.223259|9.90255|Elpershofen, bw, germany
+49.38345|9.707|Dörzbach, bw, germany
+49.380451|9.38438|Sennfeld, bw, germany
+49.323792|9.24133|Allfeld, bw, germany
+49.267429|9.22173|Untergriesheim, bw, germany
+49.355049|9.14623|Mosbach, bw, germany
+49.321671|8.81557|Meckesheim, bw, germany
+49.320202|8.86825|Eschelbronn, bw, germany
+47.95113|8.50052|Donaueschingen, bw, germany
+48.274429|9.63006|Kirchen-Hausen, bw, germany
+48.661804|9.003595|Möhringen-Espenbrücke, bw, germany
+48.04985|8.96978|Beuron, bw, germany
+48.085972|9.21759|Sigmaringen, bw, germany
+48.07729|9.3981|Hundersingen, bw, germany
+47.814529|9.59543|Berg, bw, germany
+48.661804|9.003595|Neu Ulm-Bad Held, bw, germany
+47.95113|8.50052|Donaueschingen, bw, germany
+47.983299|8.3167|Hammereisenbach, bw, germany
+48.661804|9.003595|Maria Tann, bw, germany
+48.056671|8.45912|Villingen, bw, germany
+47.95113|8.50052|Donaueschingen, bw, germany
+48.7244|9.14668|Möhringen, bw, germany
+47.985882|8.81897|Tuttlingen, bw, germany
+48.020679|8.93109|Fridingen, bw, germany
+47.714581|7.77518|Ebingen, bw, germany
+48.092861|9.15221|Unterschmeien, bw, germany
+48.249271|9.21482|Gammertingen, bw, germany
+48.083309|9.2756|Laucherthal, bw, germany
+48.010891|9.15825|Menningen, bw, germany
+47.994579|9.22422|Bittelschieß, bw, germany
+48.047291|9.32715|Mengen, bw, germany
+48.047291|9.32715|Mengen, bw, germany
+48.047291|9.32715|Mengen (Add.), bw, germany
+47.969372|9.36648|Jettkofen, bw, germany
+48.098919|9.46301|Ertingen, bw, germany
+48.16785|9.52238|Unlingen, bw, germany
+48.255112|9.58146|Lauterach, bw, germany
+48.203972|9.69006|Unterstadion, bw, germany
+48.29916|9.72086|Ehingen-Berkach, bw, germany
+48.06464|9.82817|Ummendorf, bw, germany
+48.038139|9.80207|Schweinhausen, bw, germany
+48.12645|9.79755|Warthausen, bw, germany
+48.23333|9.83333|Niederkirch, bw, germany
+48.229439|9.88466|Laupheim, bw, germany
+47.77076|9.90959|Goppertshofen, bw, germany
+48.229439|9.88466|Laupheim, bw, germany
+48.661804|9.003595|Spindelwag-Zulauf, bw, germany
+48.661804|9.003595|Hirschbronn-Zulauf, bw, germany
+48.013699|10.03035|Rot an der Rot, bw, germany
+48.061798|10.05237|Binnrot, bw, germany
+48.25959|9.89786|Achstetten, bw, germany
+47.824799|9.93606|Sonthofen, bw, germany
+48.661804|9.003595|Kempten, bw, germany
+47.760578|10.07098|Friesenhofen, bw, germany
+47.866669|10.03333|Lauben, bw, germany
+48.352291|9.97341|Wiblingen, bw, germany
+48.661804|9.003595|Blaubeuren-1, bw, germany
+48.413029|9.78166|Blaubeuren, bw, germany
+48.397141|9.98787|Ulm, bw, germany
+48.63134|10.14949|Bolheim, bw, germany
+48.661804|9.003595|Bächingen, bw, germany
+48.85973|10.3519|Bopfingen, bw, germany
+48.661804|9.003595|Schweinfurt Neuer Hafen, bw, germany
+48.661804|9.003595|Würzburg, bw, germany
+49.599998|9.65|Steinbach, bw, germany
+49.758671|9.51735|Wertheim, bw, germany
+48.661804|9.003595|Faulbach, bw, germany
+49.75145|9.32533|Freudenberg, bw, germany
+49.60804|9.47457|Hardheim, bw, germany
+48.661804|9.003595|Bockenfeld, bw, germany
+49.453201|10.0694|Archshofen, bw, germany
+49.492329|9.77029|Bad Mergentheim, bw, germany
+49.62352|9.66553|Tauberbischofsheim, bw, germany
+53.570816|10.03989|Haselknick, hamburg, germany
+53.6573|10.08543|Schleuse Poppenbüttel, hamburg, germany
+53.64255|10.099905|Bäckerbrücke, hamburg, germany
+53.579918|9.999026|Krugkoppelbrücke, hamburg, germany
+53.478435|10.232273|Pollhof, hamburg, germany
+53.710959|10.145573|Brügkamp, hamburg, germany
+53.570816|10.03989|RHB Brügkamp, hamburg, germany
+53.709852|10.143666|Herrenhausallee, hamburg, germany
+53.570816|10.03989|Torfhuder Stieg, hamburg, germany
+53.570816|10.03989|Berner Heerweg, hamburg, germany
+53.495698|10.230296|Möörkenweg, hamburg, germany
+53.553345|9.992455|Mantiusstraße, hamburg, germany
+53.653497|9.996886|Grellkamp, hamburg, germany
+53.570816|10.03989|Wohldorfer Damm, hamburg, germany
+53.570816|10.03989|Horster Damm, hamburg, germany
+53.570816|10.03989|Lohe, hamburg, germany
+53.570816|10.03989|Allerm. Deich, Sportzentrum, hamburg, germany
+53.570816|10.03989|Am Osdorfer Born, hamburg, germany
+53.451338|9.985867|Außenmühlenweg, hamburg, germany
+53.570816|10.03989|Niendorfer Straße, hamburg, germany
+53.570816|10.03989|Poppenbütteler Hauptstraße, hamburg, germany
+53.570816|10.03989|Neuenfelder Hinterdeich, hamburg, germany
+53.60344|9.916667|Olloweg, hamburg, germany
+53.570816|10.03989|Bergstedter Chaussee, hamburg, germany
+53.570816|10.03989|Billstedter Hauptstraße, hamburg, germany
+53.570816|10.03989|August-Bebel-Straße, hamburg, germany
+53.432635|10.020365|Wagenwerkweg, hamburg, germany
+53.570816|10.03989|Rahlstedter Straße, hamburg, germany
+53.634523|10.037461|Teetzparkweg, hamburg, germany
+53.68074|9.99991|Schmuggelstieg, hamburg, germany
+53.637705|9.98171|Rahmoor, hamburg, germany
+53.570816|10.03989|Kellerbleek, hamburg, germany
+53.570816|10.03989|Wilhelm-Grimm-Straße, hamburg, germany
+53.570816|10.03989|Am Hohen Hause, hamburg, germany
+53.570816|10.03989|Wandsbeker Allee, hamburg, germany
+53.606995|9.765115|Klövensteenweg, hamburg, germany
+53.570816|10.03989|Fünfhausener Landweg, hamburg, germany
+53.570816|10.03989|Niendorfer Weg, hamburg, germany
+50.526585|9.0044|Rockenau, hessen, germany
+50.526585|9.0044|Worms, hessen, germany
+51.296101|9.82983|Fahrenbach, hessen, germany
+49.651543|8.567362|Lorsch, hessen, germany
+49.68278|8.622493|Bensheim, hessen, germany
+49.818668|8.6468|Eberstadt, hessen, germany
+49.94462|8.455077|Nauheim, hessen, germany
+50.526585|9.0044|Jossa-neu, hessen, germany
+50.361259|9.55753|Elm, hessen, germany
+52.014166|10.779219|Kleinheubach, hessen, germany
+50.526585|9.0044|Obernau, hessen, germany
+50.031879|9.02602|Mainflingen, hessen, germany
+50.526585|9.0044|Frankfurt-Osthafen, hessen, germany
+49.67706|9.005106|Michelstadt, hessen, germany
+49.833221|9.04205|Hainstadt, hessen, germany
+49.777931|8.86384|Wersau, hessen, germany
+52.014166|10.779219|Groß-Bieberau1, hessen, germany
+49.97118|8.98336|Harreshausen, hessen, germany
+50.31279|9.46141|Steinau, hessen, germany
+50.398289|9.27132|Illnhausen, hessen, germany
+52.014166|10.779219|Steinau2, hessen, germany
+50.405071|9.36405|Radmühl, hessen, germany
+52.014166|10.779219|Ürzell2, hessen, germany
+50.321739|9.59375|Sannerz, hessen, germany
+50.317638|9.41722|Marborn, hessen, germany
+50.526585|9.0044|Ahl_UW, hessen, germany
+50.14431|8.50141|Bad-Soden, hessen, germany
+50.27845|9.31267|Weilers, hessen, germany
+50.22448|9.35204|Bad_Orb, hessen, germany
+51.311766|9.491195|Kassel, hessen, germany
+50.202965|9.19051|Gelnhausen, hessen, germany
+52.014166|10.779219|Hain-Gründau1, hessen, germany
+50.135387|8.916574|Hanau, hessen, germany
+50.526585|9.0044|Hanau-Mündung, hessen, germany
+49.99424|8.86462|Nieder-Roden, hessen, germany
+50.009297|8.776976|Dietzenbach, hessen, germany
+50.119919|8.83085|Mühlheim, hessen, germany
+52.014166|10.779219|Schotten1, hessen, germany
+52.014166|10.779219|Schotten2, hessen, germany
+50.457722|9.1242|Eichelsachsen, hessen, germany
+50.4631|9.00767|Ulfa, hessen, germany
+50.436569|9.0204|Unter-Schmitten, hessen, germany
+50.517941|8.95858|Ruppertsburg, hessen, germany
+50.321171|8.85876|Nieder-Florstadt, hessen, germany
+49.922315|8.85498|Münster, hessen, germany
+50.483711|8.79653|Muschenheim, hessen, germany
+50.3447|8.59377|Kransberg, hessen, germany
+50.3367|8.757265|Friedberg, hessen, germany
+50.302879|8.79316|Bruchenbrücken, hessen, germany
+50.279289|8.80011|Ilbenstadt, hessen, germany
+50.410511|9.1492|Steinberg, hessen, germany
+51.107479|9.64447|Bergheim, hessen, germany
+50.315338|8.9995|Glauberg, hessen, germany
+50.329781|9.19216|Wolferborn, hessen, germany
+50.292778|9.114855|Büdingen, hessen, germany
+50.308819|9.0877|Wolf, hessen, germany
+50.292519|9.0197|Düdelsheim, hessen, germany
+50.221432|8.87971|Windecken, hessen, germany
+50.178625|8.735865|Bad_Vilbel, hessen, germany
+50.22604|8.68215|Ober-Erlenbach, hessen, germany
+50.0151|8.452666|Raunheim, hessen, germany
+50.14019|8.392085|Eppstein, hessen, germany
+50.526585|9.0044|Mainz, hessen, germany
+50.371533|8.895265|Bingen, hessen, germany
+50.526585|9.0044|Kaub, hessen, germany
+50.526585|9.0044|Gießen-Klärwerk, hessen, germany
+50.549679|8.357408|Leun, hessen, germany
+50.526585|9.0044|Diez, hessen, germany
+50.46137|9.61341|Kalkofen_neu, hessen, germany
+50.886289|8.45427|Breidenbach, hessen, germany
+50.913152|8.524746|Biedenkopf, hessen, germany
+50.86647|8.75561|Sarnau, hessen, germany
+50.526585|9.0044|Feudingen, hessen, germany
+50.891762|8.74719|Niederwetter, hessen, germany
+50.561909|9.04568|Freienseen, hessen, germany
+50.734501|8.98009|Ober-Ofleiden, hessen, germany
+50.972038|8.96952|Gemünden, hessen, germany
+51.0309|9.02924|Bartenhausen, hessen, germany
+50.526585|9.0044|Hainmühle, hessen, germany
+50.808408|8.772509|Marburg, hessen, germany
+50.718849|8.64608|Etzelmühle, hessen, germany
+50.647526|8.703579|Lollar, hessen, germany
+50.46138|8.58817|Oberkleen, hessen, germany
+50.7438|8.199496|Haiger, hessen, germany
+52.014166|10.779219|Dillenburg2, hessen, germany
+52.014166|10.779219|Dillenburg1, hessen, germany
+52.014166|10.779219|Bischoffen1, hessen, germany
+50.69923|8.34518|Herbornseelbach, hessen, germany
+50.589663|8.464112|Aßlar, hessen, germany
+50.499039|8.42736|Bonbaden, hessen, germany
+50.539131|8.25996|Niedershausen, hessen, germany
+50.340179|8.37732|Rod_a.d._Weil, hessen, germany
+50.45813|8.32557|Essershausen, hessen, germany
+50.362381|8.16276|Niederbrechen, hessen, germany
+50.449978|8.045195|Hadamar, hessen, germany
+50.37262|8.53328|Michelbach, hessen, germany
+50.65947|9.99594|Günthers, hessen, germany
+50.839401|9.99705|Philippsthal, hessen, germany
+50.854549|9.95416|Heimboldshausen, hessen, germany
+51.12767|10.19633|Heldra, hessen, germany
+51.138641|9.93288|Bischhausen, hessen, germany
+51.128578|9.97415|Hoheneiche, hessen, germany
+51.179989|9.98901|Niddawitzhausen, hessen, germany
+51.272228|9.96133|Allendorf, hessen, germany
+50.526585|9.0044|Letzter_Heller, hessen, germany
+50.526585|9.0044|Meiningen, hessen, germany
+50.526585|9.0044|Vacha, hessen, germany
+50.526585|9.0044|Gerstungen, hessen, germany
+50.526585|9.0044|Frankenroda, hessen, germany
+50.450371|9.81343|Hettenhausen, hessen, germany
+50.486401|9.67027|Kerzell, hessen, germany
+50.517262|9.68007|Bronnzell, hessen, germany
+50.6007|9.64087|Kämmerzell, hessen, germany
+50.594898|9.59572|Lütterz, hessen, germany
+50.540051|9.42495|Schlechtenwegen, hessen, germany
+50.623965|9.507758|Bad-Salzschlirf, hessen, germany
+50.673197|9.562918|Schlitz, hessen, germany
+50.744289|9.5864|Unter-Schwarz, hessen, germany
+50.576889|9.75616|Melzdorf, hessen, germany
+50.63633|9.81251|Silges, hessen, germany
+50.805531|9.73252|Hermannspiegel, hessen, germany
+50.99514|9.72721|Rotenburg, hessen, germany
+50.742407|9.471915|Grebenau, hessen, germany
+52.014166|10.779219|Bad_Hersfeld1, hessen, germany
+51.10928|9.57563|Adelshausen, hessen, germany
+51.153061|8.90164|Schmittlotheim, hessen, germany
+51.168598|9.08065|Affoldern, hessen, germany
+51.0336|8.62182|Auhammer, hessen, germany
+50.526585|9.0044|Muesse, hessen, germany
+51.147369|8.79082|Dalwigksthal, hessen, germany
+51.13365|9.27363|Fritzlar, hessen, germany
+50.752645|9.26948|Alsfeld, hessen, germany
+50.855049|9.28819|Röllshausen, hessen, germany
+50.866032|9.23181|Gungelshausen, hessen, germany
+51.082668|9.33362|Uttershausen, hessen, germany
+51.06868|9.38292|Hebel, hessen, germany
+49.815971|8.45957|Guntershausen, hessen, germany
+50.526585|9.0044|Bonaforth, hessen, germany
+51.257633|9.68787|Helsa, hessen, germany
+50.526585|9.0044|HannMuenden, hessen, germany
+51.470995|8.92735|Helminghausen, hessen, germany
+50.526585|9.0044|Westheim, hessen, germany
+50.526585|9.0044|Welda, hessen, germany
+51.350571|9.03822|Braunsen, hessen, germany
+51.380749|9.14715|Ehringen, hessen, germany
+51.48914|9.24936|Haueda, hessen, germany
+51.440449|9.30277|Obermeiser, hessen, germany
+51.492265|9.382879|Hofgeismar, hessen, germany
+51.544041|9.40757|Hümme, hessen, germany
+51.630089|9.46007|Helmarshausen, hessen, germany
+51.64252|9.451145|Bad_Karlshafen, hessen, germany
+50.526585|9.0044|Bredelar, hessen, germany
+51.981125|9.25132|Bad Pyrmont, niedersachsen, germany
+52.433972|7.498206|Beesten, niedersachsen, germany
+52.594694|9.12615|Berka R, niedersachsen, germany
+52.55454|7.94824|Bersenbrück, niedersachsen, germany
+53.142035|10.487075|Bienenbüttel, niedersachsen, germany
+52.417351|9.37776|Bokeloh, niedersachsen, germany
+52.406695|7.97942|Bramsche, niedersachsen, germany
+51.971519|10.35333|Bredelem, niedersachsen, germany
+52.481392|10.46162|Brenneckenbrück, niedersachsen, germany
+52.594694|9.12615|Bunnen, niedersachsen, germany
+52.821665|8.47645|Colnrade, niedersachsen, germany
+53.428879|8.79381|Deelbrügge, niedersachsen, germany
+52.6782|8.53177|Düste, niedersachsen, germany
+51.70673|10.09711|Elvershausen, niedersachsen, germany
+52.605725|6.85132|Emlichheim, niedersachsen, germany
+52.71859|10.62059|Emmen, niedersachsen, germany
+51.870701|10.02479|Gandersheim, niedersachsen, germany
+52.327068|10.80198|Glentorf, niedersachsen, germany
+51.5313|9.938025|Göttingen, niedersachsen, germany
+52.594694|9.12615|Grafhorst 1, niedersachsen, germany
+51.859039|9.94376|Greene, niedersachsen, germany
+51.941689|10.1249|Groß Rhüden, niedersachsen, germany
+52.354309|10.4364|Groß Schwülper, niedersachsen, germany
+52.94894|10.483|Hansen, niedersachsen, germany
+52.337559|10.48789|Harxbüttel, niedersachsen, germany
+52.67382|7.487245|Haselünne, niedersachsen, germany
+52.366539|10.7431|Hattorf, niedersachsen, germany
+52.594694|9.12615|Heide OP, niedersachsen, germany
+52.103802|10.03324|Heinde, niedersachsen, germany
+53.074055|9.233665|Hellwege, niedersachsen, germany
+52.684114|7.603436|Herzlake, niedersachsen, germany
+53.01667|8.58333|Holzkamp, niedersachsen, germany
+52.594694|9.12615|Huntlosen II, niedersachsen, germany
+52.274231|9.79474|Koldingen, niedersachsen, germany
+52.620075|10.24215|Lachendorf, niedersachsen, germany
+52.594694|9.12615|Lage I, niedersachsen, germany
+52.558635|10.27349|Langlingen, niedersachsen, germany
+51.705029|9.96698|Leineturm, niedersachsen, germany
+52.26886|8.12312|Lüstringen, niedersachsen, germany
+52.535992|10.60307|Neudorf-Platendorf, niedersachsen, germany
+52.929014|10.569762|Niendorf II S, niedersachsen, germany
+51.706651|10.0068|Northeim, niedersachsen, germany
+52.271755|7.282029|Ohne, niedersachsen, germany
+52.119355|10.563555|Ohrum, niedersachsen, germany
+53.590634|9.251866|Oldendorf, niedersachsen, germany
+52.320364|10.232664|Peine, niedersachsen, germany
+52.594694|9.12615|Poppenburg, niedersachsen, germany
+51.406261|9.93377|Reckershausen, niedersachsen, germany
+53.332321|9.16313|Rockstedt, niedersachsen, germany
+52.613838|9.19241|Schäferhof, niedersachsen, germany
+52.021879|10.540161|Schladen, niedersachsen, germany
+52.5672|9.02619|Steyerberg, niedersachsen, germany
+52.70332|8.00571|Uptloh, niedersachsen, germany
+52.538756|10.157404|Wathlingen, niedersachsen, germany
+52.50009|6.96764|Wehr Neuenhaus, niedersachsen, germany
+52.42605|9.430005|Wunstorf, niedersachsen, germany
+51.844109|7.82564|Sendenhorst, nrw, germany
+51.519718|6.33148|Geldern, nrw, germany
+50.840309|7.41291|Broeleck, nrw, germany
+51.427206|7.66379|Herbram_W, nrw, germany
+51.032082|7.02386|Manfort, nrw, germany
+51.427206|7.66379|Paderborn2, nrw, germany
+51.895321|7.42608|Appelhuelsen, nrw, germany
+51.1651|7.98312|Bamenohl, nrw, germany
+50.895691|8.02798|Weidenau, nrw, germany
+51.427206|7.66379|Gloertalsperre_Zulauf, nrw, germany
+51.913769|9.15528|Schieder, nrw, germany
+51.427206|7.66379|Weidenau2, nrw, germany
+51.052879|8.28016|Muesse, nrw, germany
+50.64843|7.18216|Niederbachem, nrw, germany
+51.427206|7.66379|Hemer_Hessufer, nrw, germany
+52.209881|7.02798|Gronau, nrw, germany
+51.427206|7.66379|Roxeler, nrw, germany
+51.636539|7.91864|Sueddinker, nrw, germany
+50.571659|6.50041|Gemuend, nrw, germany
+51.522209|6.29476|Veert, nrw, germany
+51.427206|7.66379|Uchtdorf, nrw, germany
+51.39912|7.7847|Hemer-Becke, nrw, germany
+51.427206|7.66379|Kirchberg1, nrw, germany
+50.987881|7.66393|Oberagger, nrw, germany
+51.427206|7.66379|Kirchberg2, nrw, germany
+51.700001|7.3|Leven, nrw, germany
+50.552021|6.2406|Monschau, nrw, germany
+51.427206|7.66379|Lindemannsheide_neu, nrw, germany
+51.74017|6.78409|Daemmerwald, nrw, germany
+51.427206|7.66379|Neuhof, nrw, germany
+50.59333|6.79394|Arloff, nrw, germany
+51.91584|7.72663|Wolbeck, nrw, germany
+51.427206|7.66379|Marienfeld_W, nrw, germany
+51.427206|7.66379|Boekenfoerde_2, nrw, germany
+51.427206|7.66379|Lippspringe1, nrw, germany
+51.427206|7.66379|Hilden_1, nrw, germany
+51.28537|8.18199|Wenholthausen, nrw, germany
+51.064289|7.00285|Opladen, nrw, germany
+51.427206|7.66379|Herford_2, nrw, germany
+50.980949|6.27302|Linnich, nrw, germany
+51.833981|6.46238|Isselburg, nrw, germany
+50.959301|7.99026|Kreuztal, nrw, germany
+51.992519|6.91498|Stadtlohn, nrw, germany
+51.427206|7.66379|RurbergVA, nrw, germany
+51.62632|6.19843|Weeze, nrw, germany
+51.68317|8.30287|Cappel, nrw, germany
+51.427206|7.66379|Essen-Hespertal, nrw, germany
+51.065609|6.18837|Ratheim, nrw, germany
+50.86631|6.67374|Langenich, nrw, germany
+51.288319|7.67985|Altena, nrw, germany
+52.3797|7.60319|Hopsten, nrw, germany
+51.32296|7.48407|Hagen-Maecking, nrw, germany
+51.427206|7.66379|Neuhaus3, nrw, germany
+51.427206|7.66379|Kluserbruecke, nrw, germany
+51.427206|7.66379|Neuhaus1, nrw, germany
+51.551498|8.56006|Bueren, nrw, germany
+51.427206|7.66379|Pannenmuehle, nrw, germany
+51.062168|6.21021|Schaufenberg, nrw, germany
+50.849041|6.35341|Lamersdorf, nrw, germany
+50.762699|7.30563|Geisbach, nrw, germany
+51.853191|8.28936|Rheda, nrw, germany
+51.427206|7.66379|Schieder-Stausee, nrw, germany
+50.52935|6.47688|Schleiden, nrw, germany
+51.453041|9.11151|Welda, nrw, germany
+52.01075|8.96049|Vossheide, nrw, germany
+51.427206|7.66379|Patzlar, nrw, germany
+52.200001|8.51667|Oberahle, nrw, germany
+51.882469|8.50811|Verl, nrw, germany
+51.088459|8.10276|Herrntrop, nrw, germany
+50.666279|6.95431|Morenhoven, nrw, germany
+51.340199|7.872|Balve_Helle, nrw, germany
+51.00293|6.18588|Honsdorf, nrw, germany
+51.46228|7.92817|Bachum, nrw, germany
+51.1987|6.78248|Bilk, nrw, germany
+51.942989|9.09667|Blomberg, nrw, germany
+51.427206|7.66379|Soestbach, nrw, germany
+51.427206|7.66379|Altena_Rahmedestrasse, nrw, germany
+51.116884|6.95476|Haus_Langenfeld, nrw, germany
+52.353859|8.56368|Fiestel, nrw, germany
+51.287689|6.288495|Bettrather_Dyck, nrw, germany
+50.782612|6.81885|Bliesheim, nrw, germany
+50.583302|6.38012|Einruhr, nrw, germany
+51.427206|7.66379|Landesgrenze, nrw, germany
+50.69173|6.4492|Zerkall, nrw, germany
+51.427206|7.66379|Lippstadt_1, nrw, germany
+51.435059|7.59286|Villigst, nrw, germany
+51.000011|8.49001|Beddelhausen, nrw, germany
+52.298161|7.58042|Hoerstel, nrw, germany
+51.715408|9.18029|Brakel, nrw, germany
+51.427206|7.66379|Paderborn1, nrw, germany
+50.8409|7.21156|Lohmar, nrw, germany
+51.65873|8.31551|Overhagen, nrw, germany
+50.72845|6.177015|KornelimuensterW, nrw, germany
+51.633282|8.67818|Niederntudorf, nrw, germany
+51.221699|7.107|Buchenhofen, nrw, germany
+51.02813|8.38499|Raumland, nrw, germany
+51.98333|7.23333|Lutum, nrw, germany
+51.743172|7.18782|Haltern, nrw, germany
+51.427206|7.66379|Lippstadt2, nrw, germany
+51.427206|7.66379|Neheim3, nrw, germany
+52.369209|9.04021|Bierde, nrw, germany
+51.12999|7.59416|Kierspe, nrw, germany
+51.6688|8.72229|Nordborchen, nrw, germany
+51.427206|7.66379|Wettringen_B70, nrw, germany
+50.571892|6.73793|Eschweiler, nrw, germany
+50.697552|6.21959|Mulartshuette, nrw, germany
+51.111351|8.09795|Kickenbach, nrw, germany
+51.427206|7.66379|Stephansohl, nrw, germany
+51.700001|7.48333|Selm-Ondrup, nrw, germany
+51.036671|5.91305|Havert, nrw, germany
+50.712761|6.65561|Bessenich, nrw, germany
+52.199089|8.72418|Loehne, nrw, germany
+52.283329|8.88333|Rodenbeck, nrw, germany
+51.427206|7.66379|Lindemannsheide_Alt, nrw, germany
+51.427206|7.66379|Wetter_Wengern_1, nrw, germany
+50.915031|7.21364|Hoffnungsthal, nrw, germany
+50.93338|7.2882|Overath, nrw, germany
+50.7715|7.21329|Niederpleis, nrw, germany
+51.711128|9.29434|Ottbergen, nrw, germany
+51.427206|7.66379|Neuhaus2, nrw, germany
+51.427206|7.66379|Altenbeken2, nrw, germany
+50.844528|7.97003|Niederschelden, nrw, germany
+51.339081|7.48145|Hagen-Selbecke, nrw, germany
+51.249538|7.67872|Rosmart, nrw, germany
+51.427206|7.66379|Baltes, nrw, germany
+51.427206|7.66379|Stah, nrw, germany
+51.65274|7.85625|Westtuennen, nrw, germany
+51.344921|8.28488|Meschede, nrw, germany
+51.436359|7.79363|Menden_Sauerland, nrw, germany
+51.324589|6.37994|Oedt, nrw, germany
+51.221439|6.90865|Erkrath, nrw, germany
+50.584641|6.3561|Dedenborn, nrw, germany
+50.795921|6.15013|Haaren, nrw, germany
+51.419571|8.77538|Bredelar, nrw, germany
+51.427206|7.66379|Siegburg_Kald., nrw, germany
+51.915554|9.12225|Schieder-Nessenberg, nrw, germany
+52.01078|8.7403|Pottenhausen, nrw, germany
+50.97348|6.59103|Glesch, nrw, germany
+51.427206|7.66379|Molzmuehle, nrw, germany
+51.003929|7.28316|Hommerich, nrw, germany
+52.02824|7.10506|Legden, nrw, germany
+51.354988|8.48993|Olsberg, nrw, germany
+51.31773|7.83211|Balve-Garbeck, nrw, germany
+51.427206|7.66379|Juelich-Stadion, nrw, germany
+51.65271|8.60763|Upsprunge, nrw, germany
+51.383331|7.46667|Hagen-Eckesey, nrw, germany
+51.867039|7.73278|Albersloh, nrw, germany
+51.427206|7.66379|Herzogenrath_2, nrw, germany
+51.427206|7.66379|Herzogenrath_1, nrw, germany
+51.075779|6.16119|Orsbeck, nrw, germany
+51.37608|7.69902|Iserlohn, nrw, germany
+52.01458|8.92124|Brake, nrw, germany
+51.320301|7.5133|Hagen-Ambrock, nrw, germany
+51.427206|7.66379|Belecke_1, nrw, germany
+51.427206|7.66379|Lehen_2, nrw, germany
+51.133801|7.1167|Glueder, nrw, germany
+51.112999|6.15121|Birgelen, nrw, germany
+50.931751|7.06208|Neubrueck, nrw, germany
+51.444679|7.64927|Iserlohn-Hennen, nrw, germany
+51.418041|6.59611|Kapellen, nrw, germany
+51.427206|7.66379|Burg_Veynau, nrw, germany
+51.67345|6.16319|Goch, nrw, germany
+52.091942|7.60956|Greven, nrw, germany
+51.23333|6.23333|Kranenbruch, nrw, germany
+51.845459|7.44121|Senden-Schoelling, nrw, germany
+50.994869|5.94539|Suesterseel, nrw, germany
+51.427206|7.66379|Menden_Oberroedingh, nrw, germany
+51.427206|7.66379|Heilenbecke_Ablauf, nrw, germany
+50.85228|8.09245|Niederdielfen, nrw, germany
+51.427206|7.66379|Liemergrund, nrw, germany
+50.791309|7.32866|Broel, nrw, germany
+51.427206|7.66379|Versmold_W, nrw, germany
+50.865231|6.43492|Selhausen, nrw, germany
+51.427206|7.66379|Schledde, nrw, germany
+50.865601|7.72662|Morsbach, nrw, germany
+51.427206|7.66379|Kesseler_3, nrw, germany
+51.713741|8.9351|Schwaney, nrw, germany
+51.427206|7.66379|Olfen-Fuecht.Muehle, nrw, germany
+50.940689|8.32543|Feudingen, nrw, germany
+50.769661|7.44935|Eitorf, nrw, germany
+51.015629|6.1752|Randerath, nrw, germany
+52.024899|7.27357|Darfeld, nrw, germany
+51.331928|7.42478|Hagen-Haspe, nrw, germany
+51.427206|7.66379|Schermbeck_1, nrw, germany
+51.427206|7.66379|Altenburg_1, nrw, germany
+51.82753|6.7705|Rhedebruegge, nrw, germany
+51.427206|7.66379|Rothenbach_Grenze, nrw, germany
+51.540852|8.52729|Weine, nrw, germany
+51.427206|7.66379|Menden_1, nrw, germany
+51.427206|7.66379|Vossheide_1, nrw, germany
+51.49408|8.90693|Westheim, nrw, germany
+51.004101|7.5943|Rebbelroth, nrw, germany
+51.76236|7.88996|Ahlen, nrw, germany
+51.816662|8.55715|Steinhorst, nrw, germany
+51.29715|6.84809|Ratingen, nrw, germany
+51.427206|7.66379|Hemer_Uhlenhof, nrw, germany
+52.116402|7.11193|Heek, nrw, germany
+51.738392|8.62581|Bentfeld, nrw, germany
+50.754871|6.83948|Weilerswist, nrw, germany
+51.219795|7.18575|Moeschemer-Muehle, nrw, germany
+51.217682|7.95579|Roenkhausen, nrw, germany
+51.427206|7.66379|Lippstadt-Nordumflut, nrw, germany
+51.427206|7.66379|Kall-Sportplatz, nrw, germany
+51.427206|7.66379|Hagen-Maecking2, nrw, germany
+52.086048|8.68675|Ahmsen, nrw, germany
+51.427206|7.66379|Sande2, nrw, germany
+51.427206|7.66379|Rustenhof, nrw, germany
+51.427206|7.66379|Jubachtalsperre_Zulauf, nrw, germany
+50.758598|6.77814|Friesheim, nrw, germany
+51.97427|7.89819|Einen, nrw, germany
+51.393349|8.13558|Oeventrop, nrw, germany
+47.59198|7.60479|Basel Rheinhalle, rheinland-pfalz, germany|-|
+48.57419|7.81494|Kehl, rheinland-pfalz, germany|-|
+50.699799|7.15687|Plittersdorf, rheinland-pfalz, germany|-|
+49.039719|8.31222|Maxau, rheinland-pfalz, germany|-|
+49.319332|8.431081|Speyer, rheinland-pfalz, germany|-|
+49.48651|8.466785|Mannheim, rheinland-pfalz, germany|-|
+49.630498|8.361982|Worms, rheinland-pfalz, germany|-|
+50.000605|8.2723|Mainz, rheinland-pfalz, germany|-|
+50.000605|8.2723|Mainz, rheinland-pfalz, germany|-|
+48.109899|9.272936|Bingen, rheinland-pfalz, germany|-|
+50.088185|7.76236|Kaub, rheinland-pfalz, germany|-|
+50.3608|7.59277|Koblenz, rheinland-pfalz, germany|-|
+50.44122|7.400355|Andernach, rheinland-pfalz, germany|-|
+50.61517|7.20902|Oberwinter, rheinland-pfalz, germany|-|
+50.7323|7.101695|Bonn, rheinland-pfalz, germany|-|
+50.941665|6.95518|Köln, rheinland-pfalz, germany|-|
+50.941665|6.95518|Köln, rheinland-pfalz, germany|-|
+51.21563|6.77604|Düsseldorf, rheinland-pfalz, germany|-|
+51.448601|6.75441|Ruhrort, rheinland-pfalz, germany|-|
+51.655699|6.61684|Wesel, rheinland-pfalz, germany|-|
+51.761433|6.394075|Rees, rheinland-pfalz, germany|-|
+51.832699|6.24472|Emmerich, rheinland-pfalz, germany|-|
+49.475124|6.389096|Perl, rheinland-pfalz, germany|-|
+49.757226|6.636489|Trier, rheinland-pfalz, germany|-|
+49.95298|7.01912|Zeltingen, rheinland-pfalz, germany|-|
+50.145539|7.167131|Cochem, rheinland-pfalz, germany|-|
+49.4072|6.64709|Fremersdorf, rheinland-pfalz, germany|-|
+49.85134|6.35877|Bollendorf, rheinland-pfalz, germany|-|
+51.164175|10.454145|Rosport, rheinland-pfalz, germany|-|
+49.700001|7.3167|Oberstein, rheinland-pfalz, germany|-|
+49.803113|7.539895|Martinstein, rheinland-pfalz, germany|-|
+48.07462|10.193999|Boos, rheinland-pfalz, germany|-|
+49.843148|7.86331|Bad Kreuznach, rheinland-pfalz, germany|-|
+49.906665|7.91685|Grolsheim, rheinland-pfalz, germany|-|
+49.082649|9.8954|Eschenau, rheinland-pfalz, germany|-|
+49.684765|7.650465|Odenbach, rheinland-pfalz, germany|-|
+50.808408|8.772509|Marburg, rheinland-pfalz, germany|-|
+50.549679|8.357408|Leun, rheinland-pfalz, germany|-|
+50.37036|8.009335|Diez, rheinland-pfalz, germany|-|
+49.733908|7.836574|Kalkofen, rheinland-pfalz, germany|-|
+50.895691|8.02798|Weidenau, rheinland-pfalz, germany|-|
+50.784134|7.873577|Betzdorf, rheinland-pfalz, germany|-|
+52.213402|11.14118|Alleringersleben, sachsen-anhalt, germany
+52.310249|11.05828|Weferlingen, sachsen-anhalt, germany
+51.865799|10.68011|Ilsenburg, sachsen-anhalt, germany
+51.994362|10.65727|Hoppenstedt, sachsen-anhalt, germany
+51.989765|11.873975|Dresden, sachsen-anhalt, germany
+51.989765|11.873975|Torgau, sachsen-anhalt, germany
+51.866699|12.65|Wittenberg, sachsen-anhalt, germany
+51.989765|11.873975|Dessau-Leopoldshafen, sachsen-anhalt, germany
+51.85535|12.04466|Aken, sachsen-anhalt, germany
+51.966524|11.886716|Barby, sachsen-anhalt, germany
+52.26643|11.75872|Niegripp, sachsen-anhalt, germany
+52.541621|11.968125|Tangermünde, sachsen-anhalt, germany
+51.989765|11.873975|Wittenberge, sachsen-anhalt, germany
+51.765759|13.07794|Löben, sachsen-anhalt, germany
+51.989765|11.873975|Golzern 1, sachsen-anhalt, germany
+51.989765|11.873975|Bad Düben 1, sachsen-anhalt, germany
+51.63954|11.7462|Dessau Brücke, sachsen-anhalt, germany
+51.989765|11.873975|Camburg-Stöben, sachsen-anhalt, germany
+51.150002|11.83333|Naumburg-Grochlitz, sachsen-anhalt, germany
+51.989765|11.873975|Halle-Trotha UP, sachsen-anhalt, germany
+51.989765|11.873975|Bernburg UP, sachsen-anhalt, germany
+51.989765|11.873975|Calbe UP, sachsen-anhalt, germany
+51.989765|11.873975|Oldisleben, sachsen-anhalt, germany
+51.268589|11.54514|Wangen, sachsen-anhalt, germany
+51.223572|11.67858|Laucha, sachsen-anhalt, germany
+51.461651|11.11791|Bennungen, sachsen-anhalt, germany
+51.5741|10.9552|Stolberg, sachsen-anhalt, germany
+51.989765|11.873975|Gera-Langenberg, sachsen-anhalt, germany
+51.050415|12.13416|Zeitz, sachsen-anhalt, germany
+51.989765|11.873975|Kleindalzig, sachsen-anhalt, germany
+51.387569|12.14682|Oberthau, sachsen-anhalt, germany
+51.574848|11.27447|Wippra, sachsen-anhalt, germany
+51.60194|11.46259|Mansfeld-Leimbach, sachsen-anhalt, germany
+51.748237|11.527152|Großschierstedt, sachsen-anhalt, germany
+51.658901|11.35627|Stangerode, sachsen-anhalt, germany
+51.75825|11.46122|Aschersleben, sachsen-anhalt, germany
+51.75513|11.045921|Thale, sachsen-anhalt, germany
+51.831376|11.203697|Ditfurt, sachsen-anhalt, germany
+51.884405|11.17657|Wegeleben, sachsen-anhalt, germany
+51.990038|11.301653|Hadmersleben, sachsen-anhalt, germany
+51.853967|11.58392|Stassfurt, sachsen-anhalt, germany
+51.698689|10.72584|Tanne, sachsen-anhalt, germany
+51.743568|10.68646|Elend, sachsen-anhalt, germany
+51.628681|11.09211|Silberhütte, sachsen-anhalt, germany
+51.710209|11.29537|Meisdorf, sachsen-anhalt, germany
+51.843159|11.26917|Hausneindorf, sachsen-anhalt, germany
+51.60196|12.227523|Steinerne Renne, sachsen-anhalt, germany
+51.886761|10.9621|Mahndorf, sachsen-anhalt, germany
+52.028641|11.22953|Oschersleben, sachsen-anhalt, germany
+52.82813|12.073059|Havelberg, sachsen-anhalt, germany
+51.46748|12.8101|Schöna, sachsen, germany
+51.05364|13.740816|Dresden, sachsen, germany
+51.164374|13.472317|Meissen, sachsen, germany
+51.305975|13.2922|Riesa, sachsen, germany
+51.555805|13.003656|Torgau, sachsen, germany
+49.294457|10.405836|Klingenthal 1, sachsen, germany
+50.944229|14.23845|Lichtenhain, sachsen, germany
+50.944232|14.238458|Kirnitzschtal, sachsen, germany
+49.294457|10.405836|Porschdorf 1, sachsen, germany
+49.294457|10.405836|Sebnitz 2, sachsen, germany
+49.294457|10.405836|Neustadt 1, sachsen, germany
+49.294457|10.405836|Bielatal 1, sachsen, germany
+49.294457|10.405836|Cunnersdorf 1, sachsen, germany
+50.63195|13.01739|Neundorf, sachsen, germany
+50.532269|12.87154|Markersbach, sachsen, germany
+49.294457|10.405836|Liebstadt 2, sachsen, germany
+51.12759|14.18028|Bischofswerda, sachsen, germany
+51.02446|13.98864|Elbersdorf, sachsen, germany
+49.294457|10.405836|Lauenstein 3, sachsen, germany
+49.294457|10.405836|Mühlbach 1, sachsen, germany
+50.95462|13.85702|Dohna, sachsen, germany
+49.294457|10.405836|Geising 1, sachsen, germany
+50.945287|13.759197|Kreischa, sachsen, germany
+49.294457|10.405836|Hainsberg 6, sachsen, germany
+50.494005|12.1357|Plauen, sachsen, germany
+49.294457|10.405836|Rehefeld 2, sachsen, germany
+50.806309|13.6292|Ammelsdorf, sachsen, germany
+49.294457|10.405836|Hainsberg 3, sachsen, germany
+49.294457|10.405836|Schmiedeberg 1, sachsen, germany
+49.294457|10.405836|Dippoldiswalde 1, sachsen, germany
+49.294457|10.405836|Hainsberg 5, sachsen, germany
+50.791931|13.67627|Bärenfels, sachsen, germany
+49.294457|10.405836|Wilsdruff 1, sachsen, germany
+49.294457|10.405836|Herzogswalde 1, sachsen, germany
+49.294457|10.405836|Munzig 1, sachsen, germany
+51.122421|13.42183|Garsebach, sachsen, germany
+51.136181|13.30912|Ziegenhain, sachsen, germany
+49.294457|10.405836|Piskowitz 2, sachsen, germany
+49.294457|10.405836|Ostrau 1, sachsen, germany
+49.294457|10.405836|Seerhausen 1, sachsen, germany
+49.294457|10.405836|Seerhausen 3, sachsen, germany
+49.294457|10.405836|Paltzschen 3, sachsen, germany
+51.242592|13.01771|Nebitzschen, sachsen, germany
+51.400002|14.5333|Merzdorf, sachsen, germany
+49.294457|10.405836|Kamenz 1, sachsen, germany
+49.294457|10.405836|Trado 3, sachsen, germany
+51.46167|14.21071|Neuwiese, sachsen, germany
+51.234005|14.19885|Panschwitz, sachsen, germany
+50.818352|12.8715|Schönau, sachsen, germany
+51.206139|14.30534|Prischwitz, sachsen, germany
+51.286911|14.3191|Zescha, sachsen, germany
+49.294457|10.405836|Reichenau 1, sachsen, germany
+51.118858|13.920555|Radeberg, sachsen, germany
+51.196739|13.77186|Großdittmannsdorf, sachsen, germany
+51.29557|13.50503|Kleinraschütz, sachsen, germany
+49.294457|10.405836|Golzern 1, sachsen, germany
+49.294457|10.405836|Bad Düben 1, sachsen, germany
+49.294457|10.405836|Nemt 1, sachsen, germany
+50.459278|12.49113|Rautenkranz, sachsen, germany
+49.294457|10.405836|Neidhardtsthal 1, sachsen, germany
+49.294457|10.405836|Aue 3, sachsen, germany
+50.596191|12.66823|Niederschlema, sachsen, germany
+50.739422|12.49783|Zwickau-Pölbitz, sachsen, germany
+50.900372|12.66942|Wolkenburg, sachsen, germany
+49.294457|10.405836|Wechselburg 1, sachsen, germany
+51.129262|12.80604|Colditz, sachsen, germany
+49.294457|10.405836|Johanngeorgenstadt 4, sachsen, germany
+50.539921|12.78622|Schwarzenberg, sachsen, germany
+49.294457|10.405836|Aue 1, sachsen, germany
+49.294457|10.405836|Johanngeorgenstadt 2, sachsen, germany
+49.294457|10.405836|Markersbach 1, sachsen, germany
+49.294457|10.405836|Markersbach 2, sachsen, germany
+49.294457|10.405836|Wildenau 1, sachsen, germany
+50.47348|12.80099|Rittersgrün, sachsen, germany
+49.294457|10.405836|Niedermülsen 1, sachsen, germany
+50.808601|12.5787|Niederlungwitz, sachsen, germany
+49.294457|10.405836|Chemnitz 1, sachsen, germany
+50.969742|12.79001|Göritzhain, sachsen, germany
+50.643559|12.82193|Niederzwönitz, sachsen, germany
+49.294457|10.405836|Burkhardtsdorf 2, sachsen, germany
+49.294457|10.405836|Altchemnitz 2, sachsen, germany
+49.294457|10.405836|Jahnsdorf 1, sachsen, germany
+50.778801|12.92995|Harthau, sachsen, germany
+49.294457|10.405836|Mulda 1, sachsen, germany
+51.027025|14.749715|Berthelsdorf, sachsen, germany
+49.294457|10.405836|Nossen 1, sachsen, germany
+51.636478|12.85907|Mahlitzsch, sachsen, germany
+51.159805|12.92636|Leisnig, sachsen, germany
+50.76862|13.41227|Wolfsgrund, sachsen, germany
+49.294457|10.405836|Krummenhennersdorf1, sachsen, germany
+50.893083|13.263619|Oberschöna, sachsen, germany
+51.03178|13.15931|Böhrigen, sachsen, germany
+49.294457|10.405836|Niederstriegis 1, sachsen, germany
+50.60494|12.94706|Tannenberg, sachsen, germany
+51.102039|12.66082|Hopfgarten, sachsen, germany
+50.808659|13.0699|Kunnersdorf, sachsen, germany
+49.294457|10.405836|Lichtenwalde 1, sachsen, germany
+51.042955|13.017165|Kriebstein UP, sachsen, germany
+49.294457|10.405836|Annaberg 1, sachsen, germany
+50.611019|13.02126|Wiesa, sachsen, germany
+49.294457|10.405836|Schmalzgrube 2, sachsen, germany
+50.626469|13.07514|Streckewalde, sachsen, germany
+49.294457|10.405836|Jöhstadt 4, sachsen, germany
+49.294457|10.405836|Rauschenbach 3, sachsen, germany
+49.294457|10.405836|Olbernhau 3, sachsen, germany
+49.294457|10.405836|Pockau 1, sachsen, germany
+50.770792|13.182099|Borstendorf, sachsen, germany
+49.294457|10.405836|Hetzdorf 1, sachsen, germany
+49.294457|10.405836|Flöha 1, sachsen, germany
+50.630932|13.37453|Rothenthal, sachsen, germany
+50.65823|13.23161|Zöblitz, sachsen, germany
+49.294457|10.405836|Bad Elster 1, sachsen, germany
+49.294457|10.405836|Adorf 1, sachsen, germany
+50.7244|12.70571|Oelsnitz, sachsen, germany
+50.4245|12.09271|Magwitz, sachsen, germany
+50.476292|12.08587|Straßberg, sachsen, germany
+50.607295|12.16827|Elsterberg, sachsen, germany
+51.20797|12.28851|Kleindalzig, sachsen, germany
+50.506433|12.227506|Neuensalz, sachsen, germany
+49.294457|10.405836|Rodewisch 1, sachsen, germany
+50.618819|12.271942|Mylau, sachsen, germany
+51.127029|8.788183|Neukirchen 1, sachsen, germany
+51.555265|12.245708|Regis-Serbitz, sachsen, germany
+49.294457|10.405836|Böhlen 1, sachsen, germany
+49.294457|10.405836|Streitwald 1, sachsen, germany
+49.294457|10.405836|Albrechtshain 1, sachsen, germany
+51.385201|12.4376|Leipzig-Thekla, sachsen, germany
+51.231743|13.659879|Ebersbach, sachsen, germany
+51.07575|14.431107|Schirgiswalde, sachsen, germany
+52.255778|11.548981|Bautzen-Weite Bleiche, sachsen, germany
+49.294457|10.405836|Bautzen UP 1, sachsen, germany
+51.356491|14.14131|Lieske, sachsen, germany
+51.425159|14.53863|Sprey, sachsen, germany
+51.508202|14.39945|Spreewitz, sachsen, germany
+51.034752|14.44305|Hohberg, sachsen, germany
+51.06871|14.6417|Großschweidnitz, sachsen, germany
+49.294457|10.405836|Gröditz 1, sachsen, germany
+51.33326|13.01619|Kotitz, sachsen, germany
+51.221401|14.20203|Cannewitz, sachsen, germany
+51.408001|14.57536|Boxberg, sachsen, germany
+51.1548|14.74694|Schöps, sachsen, germany
+51.250931|14.81196|Jänkendorf, sachsen, germany
+51.288719|14.74814|Sproitz, sachsen, germany
+51.152271|14.91392|Holtendorf, sachsen, germany
+51.261841|14.88602|Särichen, sachsen, germany
+51.26757|14.2989|Lomske, sachsen, germany
+51.292062|11.165383|Burg 2, sachsen, germany
+49.294457|10.405836|Zittau 1, sachsen, germany
+50.843201|14.0635|Rosenthal, sachsen, germany
+51.154915|14.986495|Görlitz, sachsen, germany
+49.294457|10.405836|Podrosche 3, sachsen, germany
+50.934952|14.618829|Seifhennersdorf, sachsen, germany
+49.294457|10.405836|Großschönau 2, sachsen, germany
+49.294457|10.405836|Zittau 5, sachsen, germany
+50.94743|14.7369|Niederoderwitz, sachsen, germany
+49.294457|10.405836|Rennersdorf 3, sachsen, germany
+51.06794|14.94462|Tauchritz, sachsen, germany
+49.294457|10.405836|Rennersdorf 6, sachsen, germany
+47.759798|10.710171|A23, schleswig-holstein, germany
+47.759798|10.710171|ARTLENBURG, schleswig-holstein, germany
+47.759798|10.710171|BOIZENBURG, schleswig-holstein, germany
+54.20911|9.5906|Bad Bramstedt/Ohlau, schleswig-holstein, germany
+54.20911|9.5906|Bad Bramstedt/Osterau, schleswig-holstein, germany
+54.20911|9.5906|Bad Bramstedt/Schmalfelder Au, schleswig-holstein, germany
+54.083328|10.01667|Brachenfeld, schleswig-holstein, germany
+54.75|9.4|Breiholz Weiche, schleswig-holstein, germany
+53.861643|9.330088|Brokdorf, schleswig-holstein, germany
+54.20911|9.5906|Brunsbüttel NOK, schleswig-holstein, germany
+54.20911|9.5906|Cuxhaven Steubenhoeft, schleswig-holstein, germany
+54.75|9.4|Dückerswisch Weiche, schleswig-holstein, germany
+53.754332|9.651304|Elmshorn, schleswig-holstein, germany
+54.239458|10.06375|Flintbek, schleswig-holstein, germany
+53.92393|9.788435|Föhrden-Barl, schleswig-holstein, germany
+53.936409|9.69339|GRÖNHUDE, schleswig-holstein, germany
+53.430295|10.37425|Geesthacht, schleswig-holstein, germany
+53.788925|9.42368|Glueckstadt, schleswig-holstein, germany
+53.634558|9.84078|Halstenbek, schleswig-holstein, germany
+54.2929|10.06918|Hammer, schleswig-holstein, germany
+53.93008|9.467675|Heiligenstedten, schleswig-holstein, germany
+47.759798|10.710171|Hohnstorf, schleswig-holstein, germany
+53.92361|9.515245|Itzehoe, schleswig-holstein, germany
+54.234105|9.66878|Jevenstedt, schleswig-holstein, germany
+54.20911|9.5906|KRÜCKAU SPERRWERK BP, schleswig-holstein, germany
+53.912922|9.40629|Kasenort, schleswig-holstein, germany
+53.679399|9.578963|Kasenort-Binnen, schleswig-holstein, germany
+54.20911|9.5906|Kellinghusen-Parkplatz, schleswig-holstein, germany
+53.73275|9.494173|Kollmar, schleswig-holstein, germany
+54.20911|9.5906|Krückau-Sperrwerk DMA, schleswig-holstein, germany
+54.349998|9.9|Königsförde, schleswig-holstein, germany
+53.766289|10.1262|Naherfurth, schleswig-holstein, germany
+54.20911|9.5906|Neu Darchau, schleswig-holstein, germany
+54.20911|9.5906|Neufeld Hafen BP, schleswig-holstein, germany
+54.20911|9.5906|Neufeld-Hafen AP, schleswig-holstein, germany
+54.20911|9.5906|Neufelderkoog-Siel BP, schleswig-holstein, germany
+54.20911|9.5906|Osterrönfeld/Wehrau, schleswig-holstein, germany
+54.20911|9.5906|PINNAU SPERRWERK BP, schleswig-holstein, germany
+54.20911|9.5906|Pinneberg-Hindenburgdamm, schleswig-holstein, germany
+53.966911|9.72954|RENSING, schleswig-holstein, germany
+53.511872|10.251497|Reinbek, schleswig-holstein, germany
+53.649965|9.82987|Rellingen, schleswig-holstein, germany
+54.299604|9.665416|Rendsburg, schleswig-holstein, germany
+53.722408|9.85905|Renzel, schleswig-holstein, germany
+54.01326|8.89616|Rugenort, schleswig-holstein, germany
+54.20911|9.5906|STÖRSPERRWERK BP, schleswig-holstein, germany
+53.544899|10.2976|Sachsenwaldau, schleswig-holstein, germany
+54.024899|9.791205|Sarlhusen, schleswig-holstein, germany
+53.583328|9.7|Schulau, schleswig-holstein, germany
+47.759798|10.710171|StPauli, schleswig-holstein, germany
+54.34053|9.99095|Strohbrück, schleswig-holstein, germany
+54.129231|9.559296|Todenbüttel, schleswig-holstein, germany
+53.68366|9.662985|UETERSEN, schleswig-holstein, germany
+54.008534|9.809918|Willenscharen, schleswig-holstein, germany
+53.943904|9.605655|Winseldorf, schleswig-holstein, germany
+53.933758|9.683857|Wittenberge, schleswig-holstein, germany
+47.759798|10.710171|Zollenspieker, schleswig-holstein, germany
+54.20911|9.5906|Arlau-Schleuse BP, schleswig-holstein, germany
+54.029224|9.019151|Barlter Neuendeich, schleswig-holstein, germany
+54.69923|9.6305|Bondebrück, schleswig-holstein, germany
+54.131525|8.861715|Buesum, schleswig-holstein, germany
+54.20911|9.5906|Büsum-Erlengrund, schleswig-holstein, germany
+54.730265|8.707415|Dagebuell, schleswig-holstein, germany
+54.20911|9.5906|Deichsiel Sommerkoog Steertloch AP, schleswig-holstein, germany
+54.20911|9.5906|Eidersperrwerk AP, schleswig-holstein, germany
+54.20911|9.5906|Eidersperrwerk BP, schleswig-holstein, germany
+54.20911|9.5906|Everschopsiel AP, schleswig-holstein, germany
+54.20911|9.5906|Everschopsiel BP, schleswig-holstein, germany
+54.20911|9.5906|Friedrichskoog Sperrwerk AP, schleswig-holstein, germany
+54.20911|9.5906|Friedrichstadt-Eidermühle, schleswig-holstein, germany
+54.20911|9.5906|Friedrichstadt-Straßenbruecke, schleswig-holstein, germany
+54.20911|9.5906|Friedrichstadt/Spülschleuse, schleswig-holstein, germany
+54.20911|9.5906|Helgoland Binnenhafen, schleswig-holstein, germany
+54.368919|8.9088|Hochbrücksiel, schleswig-holstein, germany
+54.75639|8.28913|Hoernum, schleswig-holstein, germany
+54.289795|9.22428|Hollingstedt, schleswig-holstein, germany
+54.20911|9.5906|Holmer Siel AP, schleswig-holstein, germany
+54.20911|9.5906|Hooge-Anleger, schleswig-holstein, germany
+54.475809|9.049497|Husum, schleswig-holstein, germany
+54.50552|9.42142|Jägerkrug, schleswig-holstein, germany
+54.49049|9.413935|Kronprinzenkoog-Nord, schleswig-holstein, germany
+54.20911|9.5906|LEXFÄHRE OW, schleswig-holstein, germany
+54.20911|9.5906|LEXFÄHRE UW, schleswig-holstein, germany
+54.77258|8.97221|Leck, schleswig-holstein, germany
+55.01366|8.422605|List, schleswig-holstein, germany
+54.20911|9.5906|Luebke Koog AP, schleswig-holstein, germany
+54.090205|9.06877|Meldorf, schleswig-holstein, germany
+54.20911|9.5906|Meldorf Sperrwerk AP, schleswig-holstein, germany
+54.20911|9.5906|Meldorf-Sperrwerk BP, schleswig-holstein, germany
+54.918491|8.35873|Munkmarsch, schleswig-holstein, germany
+54.70937|9.52049|Mühlenbrück, schleswig-holstein, germany
+54.20911|9.5906|NORDFELD OBERWASSER, schleswig-holstein, germany
+54.20911|9.5906|NORDFELD UNTERWASSER, schleswig-holstein, germany
+54.20911|9.5906|Neufelder-Koog-Siel AP, schleswig-holstein, germany
+54.20911|9.5906|Nordfeld-Siel, schleswig-holstein, germany
+54.26667|9.3|Pahlhude, schleswig-holstein, germany
+54.523546|8.64805|Pellworm, schleswig-holstein, germany
+54.682018|8.75599|Schluettsiel, schleswig-holstein, germany
+54.20911|9.5906|Schlüttsiel BP, schleswig-holstein, germany
+54.699471|9.03255|Soholm, schleswig-holstein, germany
+54.20911|9.5906|Sommerkoog Steertloch BP, schleswig-holstein, germany
+54.354961|9.55542|Sorgbrück, schleswig-holstein, germany
+54.20911|9.5906|Stoer-Sperrwerk AP, schleswig-holstein, germany
+54.20911|9.5906|Strucklahnungshoern AP, schleswig-holstein, germany
+54.20911|9.5906|Strucklahnungshörn BP, schleswig-holstein, germany
+54.314336|8.9375|Toenning, schleswig-holstein, germany
+54.5149|9.321665|Treia, schleswig-holstein, germany
+54.20911|9.5906|Tuemlau AP, schleswig-holstein, germany
+54.20911|9.5906|Tönning BP, schleswig-holstein, germany
+54.20911|9.5906|Tümlau BP, schleswig-holstein, germany
+54.20911|9.5906|Westerland-Messpfahl, schleswig-holstein, germany
+54.627281|8.38654|Wittduen, schleswig-holstein, germany
+54.40497|9.29523|Wohlde, schleswig-holstein, germany
+54.69183|8.56777|Wyk Foehr, schleswig-holstein, germany
+53.919971|10.695678|Bad Schwartau, schleswig-holstein, germany
+54.46599|9.83747|Eckernfoerde, schleswig-holstein, germany
+54.78643|9.435435|Flensburg, schleswig-holstein, germany
+54.53463|9.6506|Füsing, schleswig-holstein, germany
+54.374139|10.979426|Heiligenhafen, schleswig-holstein, germany
+54.20911|9.5906|Herrenmühle OP, schleswig-holstein, germany
+54.20911|9.5906|Herrenmühle UP, schleswig-holstein, germany
+54.659939|9.93392|Kappeln, schleswig-holstein, germany
+54.377201|10.14779|Kiel-Holtenau, schleswig-holstein, germany
+54.377201|10.14779|Kiel-Holtenau, schleswig-holstein, germany
+54.315451|10.21947|Kiel-Oppendorf, schleswig-holstein, germany
+54.20911|9.5906|LT Kalkgrund, schleswig-holstein, germany
+54.32324|10.1322|LT Kiel, schleswig-holstein, germany
+54.822102|9.65649|Langballigau, schleswig-holstein, germany
+54.20911|9.5906|Lübeck-Bauhof(WSV), schleswig-holstein, germany
+53.805538|10.6194|Lübeck-Moisling, schleswig-holstein, germany
+54.20911|9.5906|Oldesloe 3 Stadtpark, schleswig-holstein, germany
+53.810805|10.375202|Oldesloe OP, schleswig-holstein, germany
+54.235905|10.282583|Preetz, schleswig-holstein, germany
+54.20911|9.5906|Schleimuende SP, schleswig-holstein, germany
+54.515701|9.566571|Schleswig, schleswig-holstein, germany
+53.47536|10.56107|Schulendorf, schleswig-holstein, germany
+53.811218|10.41597|Sehmsdorf, schleswig-holstein, germany
+54.126966|10.224269|Stolpe, schleswig-holstein, germany
+53.945679|10.89236|Travemünde, schleswig-holstein, germany
+54.30125|10.7663|Weißenhaus, schleswig-holstein, germany
+54.20911|9.5906|Wensin-Rote Kate, schleswig-holstein, germany
+54.574612|9.69159|Westerakeby, schleswig-holstein, germany
+50.571031|10.417155|Meiningen, thueringen, germany
+50.761131|10.33241|Breitungen, thueringen, germany
+50.825591|10.021392|Vacha, thueringen, germany
+50.963211|10.066179|Gerstungen, thueringen, germany
+51.095284|10.274943|Frankenroda, thueringen, germany
+50.51685|10.79113|Hinternah, thueringen, germany
+50.546241|10.471577|Ellingshausen, thueringen, germany
+50.402187|11.699275|Blankenstein, thueringen, germany
+50.61837|11.43067|Kaulsdorf, thueringen, germany
+50.670719|11.3567|Saalfeld-Remschütz, thueringen, germany
+50.71964|11.3456|Rudolstadt, thueringen, germany
+50.849866|11.606047|Rothenstein, thueringen, germany
+51.053719|11.71169|Camburg-Stöben, thueringen, germany
+50.564941|11.75131|Möschlitz, thueringen, germany
+50.61837|11.43067|Kaulsdorf-Eichicht, thueringen, germany
+50.946159|11.390302|Mellingen, thueringen, germany
+51.070331|11.583009|Niedertrebra, thueringen, germany
+51.162675|10.991695|Straußfurt, thueringen, germany
+51.30933|11.171005|Oldisleben, thueringen, germany
+50.835502|10.948531|Arnstadt, thueringen, germany
+50.922371|10.9924|Erfurt-Möbisburg, thueringen, germany
+50.65542|12.202915|Greiz, thueringen, germany
+50.919601|12.0519|Gera-Langenberg, thueringen, germany
+50.926769|11.26589|Eisenhammer, thueringen, germany
+50.825591|10.021392|Vacha, thueringen, germany
+50.963211|10.066179|Gerstungen, thueringen, germany
+51.095284|10.274943|Frankenroda, thueringen, germany
+50.61837|11.43067|Kaulsdorf, thueringen, germany
+50.670719|11.3567|Saalfeld-Remschütz, thueringen, germany
+50.71964|11.3456|Rudolstadt, thueringen, germany
+50.849866|11.606047|Rothenstein, thueringen, germany
+51.053719|11.71169|Camburg-Stöben, thueringen, germany
+50.564941|11.75131|Möschlitz, thueringen, germany
+51.070331|11.583009|Niedertrebra, thueringen, germany
+51.30933|11.171005|Oldisleben, thueringen, germany
+50.65542|12.202915|Greiz, thueringen, germany
+50.919601|12.0519|Gera-Langenberg, thueringen, germany
+50.926769|11.26589|Eisenhammer, thueringen, germany
+50.963211|10.066179|Gerstungen, thueringen, germany
+51.095284|10.274943|Frankenroda, thueringen, germany
+50.61837|11.43067|Kaulsdorf, thueringen, germany
+50.670719|11.3567|Saalfeld-Remschütz, thueringen, germany
+50.71964|11.3456|Rudolstadt, thueringen, germany
+50.849866|11.606047|Rothenstein, thueringen, germany
+51.053719|11.71169|Camburg-Stöben, thueringen, germany
+51.30933|11.171005|Oldisleben, thueringen, germany
+50.65542|12.202915|Greiz, thueringen, germany
+50.919601|12.0519|Gera-Langenberg, thueringen, germany
+51.095284|10.274943|Frankenroda, thueringen, germany
+50.61837|11.43067|Kaulsdorf, thueringen, germany
+50.670719|11.3567|Saalfeld-Remschütz, thueringen, germany
+50.849866|11.606047|Rothenstein, thueringen, germany
+51.053719|11.71169|Camburg-Stöben, thueringen, germany

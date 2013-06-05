@@ -1,0 +1,67 @@
+Meldestufe,Wert
+0,0
+1,1
+2,2
+3,3
+4,4
+" < 2 jährliches Hochwasser
+                            ",0
+" < mittleres Niedrigwasser
+                            ",0
+" < Mittelwasser
+	            	",0
+" ≥ 10 jährliches Hochwasser
+	            	",1
+" ≥ 2 jährliches Hochwasser
+	            	",1
+" ≥ 20 jährliches Hochwasser
+	            	",2
+" ≥ 50 jährliches Hochwasser
+                            ",3
+" ≥ 100 jährliches Hochwasser
+                            ",4
+" kein Kennwert vorhanden
+	            	",-1
+-,0
+---,0
+AS1,1
+AS2,2
+AS3,3
+AS4,4
+inaktiv,-1
+keine,0
+keine aktuellen Daten,-1
+keine Hochwassersituation,0
+keine oder veraltete Werte,-1
+keine Werte verfügbar,-1
+Meldestufe 1 überschritten,1
+Meldestufe 1 unterschritten,0
+Meldestufe 2 überschritten,2
+Meldestufe 3 überschritten,3
+MG,1
+Mittelwasser (2),0
+Mittelwasser (3),0
+Mittelwasser (4),0
+Mittleres Hochwasser (7),1
+Mittleres Hochwasser (5),2
+Mittleres Hochwasser (6),3
+Höchstes Hochwasser (8),4
+Mittleres Niedrigwasser (1),0
+Niedrigwasser (0),0
+Pegel ohne Meldestufendarstellung,-1
+"zuletzt abgerufener Messwert < 2-jährliches Hochwasser
+                            ",0
+"zuletzt abgerufener Messwert < mittleres Niedrigwasser
+                            ",0
+"zuletzt abgerufener Messwert < Mittelwasser
+                            ",0
+"zuletzt abgerufener Messwert ≥ 10-jährliches Hochwasser
+                            ",1
+"zuletzt abgerufener Messwert ≥ 2-jährliches Hochwasser
+                            ",1
+"zuletzt abgerufener Messwert ≥ 20-jährliches Hochwasser
+                            ",2
+"zuletzt abgerufener Messwert ≥ 50-jährliches Hochwasser
+                            ",3
+"zuletzt abgerufener Messwert ≥ 100-jährliches Hochwasser
+                            ",4
