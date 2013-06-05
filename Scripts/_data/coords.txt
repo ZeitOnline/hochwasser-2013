@@ -2009,3 +2009,284 @@ latitude|longitude|name
 50.670719|11.3567|Saalfeld-Remschütz, thueringen, germany
 50.849866|11.606047|Rothenstein, thueringen, germany
 51.053719|11.71169|Camburg-Stöben, thueringen, germany
+50.803551|13.56599|Reichenau, sachsen, germany
+47.652975|10.71807|Roßhaupten, bayern, germany
+53.31365|13.86066|Prenzlau, brandenburg, germany
+50.553669|12.44497|Wildenau, sachsen, germany
+51.951305|14.71658|Guben, brandenburg, germany
+52.499704|14.585573|Reitwein, brandenburg, germany
+51.216492|13.31602|Paltzschen, sachsen, germany
+52.557499|14.55427|Manschnow, brandenburg, germany
+51.068642|13.60877|Rennersdorf, sachsen, germany
+49.896961|9.18634|Dornau, bayern, germany
+51.17964|14.42426|Bautzen, sachsen, germany
+52.1161|8.66931|Herford, nrw, germany
+48.716873|11.495165|Manching, bayern, germany
+50.530281|12.6054|Neidhardtsthal, sachsen, germany
+49.38459|12.68689|Hocha, bayern, germany
+50.785599|13.82435|Lauenstein, sachsen, germany
+48.55548|12.5577|Marklkofen, bayern, germany
+50.86168|13.07747|Flöha, sachsen, germany
+52.341679|14.55432|Frankfurt (Oder), brandenburg, germany
+49.822842|11.88882|Unterbruck, bayern, germany
+47.863862|12.010397|Bad Aibling, bayern, germany
+52.458466|13.017505|Große Tränke, brandenburg, germany
+54.20911|9.5906|Neufeld Hafen, schleswig-holstein, germany
+50.528439|13.13149|Schmalzgrube, sachsen, germany
+53.22163|13.38173|Küstrinchen, brandenburg, germany
+51.459541|14.34896|Burg, sachsen, germany
+54.20911|9.5906|Krückau-DMA, schleswig-holstein, germany
+50.588598|12.697393|Aue, sachsen, germany
+50.8675|6.09357|Herzogenrath, nrw, germany
+50.809071|13.4087|Mulda, sachsen, germany
+50.28153|12.239359|Bad Elster, sachsen, germany
+48.049541|10.87658|Landsberg, bayern, germany
+48.991763|13.301572|TWT Frauenau, bayern, germany
+48.917194|11.407995|Untreusee, bayern, germany
+50.433126|12.712311|Johanngeorgenstadt, sachsen, germany
+51.990162|13.075406|Jüterbog, brandenburg, germany
+54.20911|9.5906|Neufeld-Hafen, schleswig-holstein, germany
+51.445851|13.393173|Schweinfurt, bw, germany
+48.126165|11.583095|Au, bayern, germany
+52.493431|12.4039|Bahnitz, brandenburg, germany
+51.263088|13.25761|Seerhausen, sachsen, germany
+52.020279|14.17448|Goyatz, brandenburg, germany
+48.549221|8.47329|Erzgrube, bw, germany
+48.917194|11.407995|Forggensee, bayern, germany
+50.967341|14.270225|Sebnitz, sachsen, germany
+52.6067|14.454335|Zechin, brandenburg, germany
+51.427206|7.66379|Lindemannsheide neu, nrw, germany
+50.898022|13.06348|Mühlbach, sachsen, germany
+50.863372|13.856944|Liebstadt, sachsen, germany
+50.511453|13.094885|Jöhstadt, sachsen, germany
+51.427206|7.66379|Lindemannsheide Alt, nrw, germany
+50.46137|9.61341|Kalkofen neu, hessen, germany
+50.836365|12.92146|Chemnitz, sachsen, germany
+51.427206|7.66379|Burg Veynau, nrw, germany
+49.00054|11.382666|Kinding, bayern, germany
+52.25|7.71667|Lehen, nrw, germany
+47.759798|10.710171|Tuemlau, schleswig-holstein, germany
+53.038891|12.08491|Garz, brandenburg, germany
+51.116884|6.95476|Haus Langenfeld, nrw, germany
+52.84827|9.02903|Heide, niedersachsen, germany
+47.56939|10.698997|Füssen, bayern, germany
+52.285259|13.16882|Gröben, brandenburg, germany
+52.664591|13.378666|Lentzker Mühle, brandenburg, germany
+50.895727|13.670543|Dippoldiswalde, sachsen, germany
+52.458466|13.017505|Hohensaaten, Ostschleuse, brandenburg, germany
+47.794926|12.533549|Weidachwiesen, bayern, germany
+47.759798|10.710171|STÖRSPERRWERK, schleswig-holstein, germany
+51.042955|13.017165|Kriebstein, sachsen, germany
+48.27304|12.149985|Dorfen, bayern, germany
+50.29932|10.46766|Bad Königshofen  Grabfeld, bayern, germany
+51.63686|8.39212|Boekenfoerde, nrw, germany
+50.745602|12.8544|Jahnsdorf, sachsen, germany
+47.759798|10.710171|Schleimuende, schleswig-holstein, germany
+52.458466|13.017505|Kienitz, Heberleitung, brandenburg, germany
+51.941479|13.89749|Lübben, brandenburg, germany
+47.759798|10.710171|Oldesloe, schleswig-holstein, germany
+52.458466|13.017505|Finkenheerd, Düker, brandenburg, germany
+52.929014|10.569762|Niendorf S, niedersachsen, germany
+51.427206|7.66379|Wettringen B70, nrw, germany
+49.294457|10.405836|Rehefeld, sachsen, germany
+48.917194|11.407995|Aitrach, bayern, germany
+51.427206|7.66379|Gloertalsperre, nrw, germany
+51.64252|9.451145|Bad Karlshafen, hessen, germany
+51.400318|7.34705|Wetter Wengern, nrw, germany
+54.20911|9.5906|Sommerkoog Steertloch, schleswig-holstein, germany
+50.779171|12.86733|Neukirchen, sachsen, germany
+52.01075|8.96049|Vossheide, nrw, germany
+51.427206|7.66379|Jubachtalsperre, nrw, germany
+47.759798|10.710171|Eidersperrwerk, schleswig-holstein, germany
+53.660099|10.0799|Poppenbüttel, hamburg, germany
+52.458466|13.017505|Beeskow Spreeschleuse, brandenburg, germany
+51.670101|8.34596|Lippstadt, nrw, germany
+47.716702|10.3167|Haslach, bayern, germany
+51.48587|8.33642|Belecke, nrw, germany
+47.561588|10.21881|Immenstadt, bayern, germany
+52.087391|13.86726|Damm, brandenburg, germany
+54.20911|9.5906|Holmer Siel, schleswig-holstein, germany
+49.34787|9.86357|Hirschbronn, bw, germany
+50.29187|9.3937|Ahl, hessen, germany
+48.661804|9.003595|Rheinhausen BW6 16, bw, germany
+54.20911|9.5906|Lübeck-Bauhof, schleswig-holstein, germany
+48.917194|11.407995|Kochelseeschleuse, bayern, germany
+48.737251|11.17855|Neuburg, bayern, germany
+51.591355|12.590151|Bad Düben, sachsen, germany
+51.427206|7.66379|Hemer Hessufer, nrw, germany
+52.673981|14.35826|Solikante, brandenburg, germany
+54.32324|10.1322|Kiel, schleswig-holstein, germany
+49.403709|12.60696|Witzelsmühle, bayern, germany
+52.139763|14.635067|Eisenhüttenstadt, brandenburg, germany
+51.340591|14.20185|Trado, sachsen, germany
+51.51442|11.96332|Halle-Trotha, sachsen-anhalt, germany
+47.630755|13.001338|Berchtesgaden, bayern, germany
+51.66481|8.10748|Kesseler, nrw, germany
+52.408494|12.562564|, brandenburg, germany
+47.505403|11.278405|Krün, bayern, germany
+48.78688|8.64506|Schömberg, bw, germany
+50.112041|8.68342|Frankfurt, hessen, germany
+54.20911|9.5906|Neufelder-Koog-Siel, schleswig-holstein, germany
+53.903629|10.30427|Herrenmühle, schleswig-holstein, germany
+50.890671|6.39029|Altenburg, nrw, germany
+51.303791|12.5661|Albrechtshain, sachsen, germany
+52.458466|13.017505|Eisenhüttenstadt, Schöpfwerk, brandenburg, germany
+49.21587|12.83443|Liebenstein, bayern, germany
+51.427206|7.66379|Siegburg Kald., nrw, germany
+51.247601|12.7823|Golzern, sachsen, germany
+48.917194|11.407995|Rothsee Hauptsperre, bayern, germany
+51.475021|13.94009|Biehlen, brandenburg, germany
+52.463829|13.98498|Neue Mühle, brandenburg, germany
+48.917194|11.407995|Brombachsee Hauptsperre, bayern, germany
+50.8022|12.9171|Altchemnitz, sachsen, germany
+51.436359|7.79363|Menden Sauerland, nrw, germany
+51.427206|7.66379|Hemer Uhlenhof, nrw, germany
+48.200001|12.5167|Furth  Wald, bayern, germany
+48.421921|11.81228|Eixendorf, bayern, germany
+51.203199|12.387179|Böhlen, sachsen, germany
+52.445907|10.945243|Grafhorst, niedersachsen, germany
+51.469841|14.94525|Podrosche, sachsen, germany
+50.532269|12.87154|Markersbach, sachsen, germany
+51.404301|6.8985|Menden, nrw, germany
+51.011978|13.49558|Herzogswalde, sachsen, germany
+48.245829|10.985504|Merching, bayern, germany
+49.342235|12.52815|Rötz, bayern, germany
+47.759798|10.710171|Strucklahnungshoern, schleswig-holstein, germany
+52.014166|10.779219|Bad Hersfeld1, hessen, germany
+50.939934|14.130405|Porschdorf, sachsen, germany
+48.917194|11.407995|Grüntensee, bayern, germany
+50.895255|14.669165|Großschönau, sachsen, germany
+51.270307|14.102851|Kamenz, sachsen, germany
+48.370335|10.897892|Augsburg, bayern, germany
+51.169769|6.93707|Hilden, nrw, germany
+48.917194|11.407995|Fischbachwehr, bayern, germany
+50.983299|13.6333|Hainsberg, sachsen, germany
+52.458466|13.017505|Reitwein, Triftweg, brandenburg, germany
+49.928612|10.75051|Trunstadt, bayern, germany
+54.20911|9.5906|Luebke Koog, schleswig-holstein, germany
+51.299999|7.35|Heilenbecke, nrw, germany
+50.580181|13.00271|Annaberg, sachsen, germany
+48.419485|12.904865|Postmünster, bayern, germany
+54.090205|9.06877|Meldorf, schleswig-holstein, germany
+54.20911|9.5906|Deichsiel Sommerkoog Steertloch, schleswig-holstein, germany
+48.917194|11.407995|Passau Ingling, bayern, germany
+50.903501|14.812336|Zittau, sachsen, germany
+50.178625|8.735865|Bad Vilbel, hessen, germany
+51.976711|13.62399|Prierow, brandenburg, germany
+50.586614|8.676334|Gießen, hessen, germany
+47.759798|10.710171|Tümlau, schleswig-holstein, germany
+51.083401|13.41231|Munzig, sachsen, germany
+52.874939|14.14117|Hohensaaten, brandenburg, germany
+54.006207|8.880503|Friedrichskoog, schleswig-holstein, germany
+52.408494|12.562564|Wusterhausen, 12, brandenburg, germany
+50.879372|14.04696|Bielatal, sachsen, germany
+50.835604|13.67713|Schmiedeberg, sachsen, germany
+50.526585|9.0044|Letzter Heller, hessen, germany
+49.376011|11.80536|Bittenbrunn, bayern, germany
+50.779049|12.52485|Niedermülsen, sachsen, germany
+50.356071|12.468723|Klingenthal, sachsen, germany
+48.746391|11.01546|Bertoldsheim, bayern, germany
+47.759798|10.710171|Kalkgrund, schleswig-holstein, germany
+50.708283|13.220368|Pockau, sachsen, germany
+51.672291|8.91595|Herbram, nrw, germany
+52.82428|12.41671|Hohenofen, brandenburg, germany
+51.411524|13.447455|Gröditz, sachsen, germany
+50.044086|10.236474|Schweinfurt, bayern, germany
+52.75827|14.28656|Güstebieser Loose, brandenburg, germany
+49.732998|10.599046|Burghaslach, bayern, germany
+51.083525|13.149345|Niederstriegis, sachsen, germany
+52.469519|6.961878|Lage, niedersachsen, germany
+52.574265|14.49274|Golzow, brandenburg, germany
+47.759798|10.710171|KRÜCKAU, schleswig-holstein, germany
+52.2575|14.58181|Brieskow, brandenburg, germany
+50.692581|13.49826|Rauschenbach, sachsen, germany
+52.408494|12.562564|Fehrbellin, 19, brandenburg, germany
+48.46796|11.93577|Moosburg, bayern, germany
+52.60945|12.340155|Rathenow, brandenburg, germany
+49.152382|10.72342|Muhr, bayern, germany
+48.413029|9.78166|Blaubeuren, bw, germany
+50.22448|9.35204|Bad Orb, hessen, germany
+50.272096|11.553888|Bernstein a., bayern, germany
+52.75229|12.347875|Rhinow, brandenburg, germany
+47.759798|10.710171|Everschopsiel, schleswig-holstein, germany
+51.199184|13.163451|Ostrau, sachsen, germany
+52.65469|12.80509|Bergerdamm, brandenburg, germany
+52.080921|13.87734|Leibsch, brandenburg, germany
+52.338299|14.2589|Kersdorf, brandenburg, germany
+52.042969|8.15494|Versmold, nrw, germany
+52.658741|12.49986|Rhinsmühlen, brandenburg, germany
+51.692478|6.87014|Schermbeck, nrw, germany
+53.827453|9.402107|Stoer, schleswig-holstein, germany
+51.427206|7.66379|Altena Rahmedestrasse, nrw, germany
+52.66024|12.27938|Grütz, brandenburg, germany
+47.759798|10.710171|Arlau, schleswig-holstein, germany
+52.408489|12.56256|Brandenburg, brandenburg, germany
+48.917194|11.407995|Goldbergsee, bayern, germany
+54.336781|9.13261|NORDFELD, schleswig-holstein, germany
+51.34618|12.76167|Nemt, sachsen, germany
+51.04335|12.5766|Streitwald, sachsen, germany
+49.178235|10.656095|Ornbau, bayern, germany
+50.760495|13.78908|Geising, sachsen, germany
+48.917194|11.407995|Frankfurt a.M., bayern, germany
+52.50009|6.96764|Neuenhaus, niedersachsen, germany
+51.058245|13.300806|Nossen, sachsen, germany
+52.458466|13.017505|Finkenheerd, Deichsiel, brandenburg, germany
+50.182549|11.89871|Förmitz, bayern, germany
+54.314336|8.9375|Tönning, schleswig-holstein, germany
+49.224659|9.21851|Kochendorf, bw, germany
+54.20911|9.5906|Neufelderkoog-Siel, schleswig-holstein, germany
+48.53657|12.151775|Landshut, bayern, germany
+47.941818|12.8717|Eschelbach, bayern, germany
+49.814098|12.3717|Iglersreuth, bayern, germany
+51.802269|11.73119|Bernburg, sachsen-anhalt, germany
+51.067299|13.74726|Neustadt, sachsen, germany
+48.917194|11.407995|Sylvensteinsee, bayern, germany
+47.794926|12.533549|Schärding, bayern, germany
+50.340179|8.37732|Rod a.d. Weil, hessen, germany
+50.661598|13.334723|Olbernhau, sachsen, germany
+51.003918|12.772437|Wechselburg, sachsen, germany
+50.322201|11.4929|Mauthaus, bayern, germany
+51.427206|7.66379|Rothenbach Grenze, nrw, germany
+52.449902|13.755234|Woltersdorf, brandenburg, germany
+51.427206|7.66379|Menden Oberroedingh, nrw, germany
+51.049816|13.538674|Wilsdruff, sachsen, germany
+48.028198|7.5821|Breisach, bw, germany
+47.85652|12.128755|Rosenheim, bayern, germany
+51.219405|11.638423|Golzern, sachsen-anhalt, germany
+53.119308|14.27341|Blumenhagen, Neue Mühle, brandenburg, germany
+54.682018|8.75599|Schlüttsiel, schleswig-holstein, germany
+50.841888|13.12608|Hetzdorf, sachsen, germany
+49.284039|9.16021|Gundelsheim, bw, germany
+50.53185|12.403552|Rodewisch, sachsen, germany
+52.990452|8.27819|Huntlosen, niedersachsen, germany
+52.458466|13.017505|Golzow, Straßenbrücke, brandenburg, germany
+47.759798|10.710171|Strucklahnungshörn, schleswig-holstein, germany
+52.458466|13.017505|Neutornow, Schöpfwerk, brandenburg, germany
+48.001539|10.506183|Dirlewang, bayern, germany
+51.92762|12.385796|Bad Düben, sachsen-anhalt, germany
+48.565392|12.739303|Braunau-Simbach, bayern, germany
+52.458466|13.017505|Alttornow, Schöpfwerk, brandenburg, germany
+53.063519|14.282|Schwedt, brandenburg, germany
+50.31913|12.25681|Adorf, sachsen, germany
+52.7104|14.18928|Bochowsloos, brandenburg, germany
+48.402381|12.76292|Eggenfelden, bayern, germany
+48.01667|11.01667|Oberfinning, bayern, germany
+52.922241|12.90211|Wulkow, brandenburg, germany
+54.218849|9.434|LEXFÄHRE, schleswig-holstein, germany
+51.340199|7.872|Balve Helle, nrw, germany
+49.516541|11.89355|Urspring, bayern, germany
+53.259491|13.55605|Hardenbeck, brandenburg, germany
+51.898201|11.7712|Calbe, sachsen-anhalt, germany
+51.283989|14.1889|Piskowitz, sachsen, germany
+47.938165|12.934836|Laufen, bayern, germany
+50.73462|12.91743|Burkhardtsdorf, sachsen, germany
+52.238819|13.13403|Blankensee, brandenburg, germany
+48.762365|11.42523|Ingolstadt, bayern, germany
+51.287689|6.288495|Bettrather Dyck, nrw, germany
+47.996658|10.00008|Spindelwag, bw, germany
+48.031463|12.101388|Putzmühle, bayern, germany
+50.883808|7.44172|Marienfeld, nrw, germany
+51.029499|14.67411|Cunnersdorf, sachsen, germany
+50.88559|13.01011|Lichtenwalde, sachsen, germany
+50.34412|11.02787|Schönstädt, bayern, germany
+47.759798|10.710171|PINNAU, schleswig-holstein, germany
