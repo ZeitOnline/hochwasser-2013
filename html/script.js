@@ -79,7 +79,7 @@ $(document).ready(function()
 			var marker = L.marker([station.latitude, station.longitude], {
 				"icon": icon
 			});
-			marker.bindPopup("<strong>"+station["Station Original"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
+			marker.bindPopup("<strong>"+station["Station Original"]+"</strong>"+"<br>"+station["Fluss"]+"<br>Meldestufe: "+station["Meldestufe Original"]);
 			marker.addTo(markerLayer);
 		}
 	});
@@ -99,8 +99,18 @@ $(document).ready(function()
 		layers: [baseLayer, heatmapLayer]
 	});
 	
+	var osm = new L.TileLayer('http://{s}.tile.osmosnimki.ru/kosmo/{z}/{x}/{y}.png');
+	var mpn = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
+	var qst = new L.TileLayer('http://otile1.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png', {attribution:'Tiles Courtesy of MapQuest '});
+	var sto = new L.StamenTileLayer("toner");
 	
-	L.control.layers([], {
+	L.control.layers({
+		"CloudMade": baseLayer,
+		'OSM': osm,
+		'Mapnik': mpn,
+		'MapQuest': qst,
+		'Stamen-Toner': sto,
+	}, {
 		"Heatmap": heatmapLayer,
 		"Stationen": markerLayer,
 		"Debug-Marker": clusterMarkers
