@@ -79,7 +79,7 @@ $(document).ready(function()
 			var marker = L.marker([station.latitude, station.longitude], {
 				"icon": icon
 			});
-			marker.bindPopup("<strong>"+station["Station"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
+			marker.bindPopup("<strong>"+station["Station Original"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
 			marker.addTo(markerLayer);
 		}
 	});
@@ -88,7 +88,7 @@ $(document).ready(function()
 	_.each(stations, function (station, index, list) {
 		if (station.latitude && station.longitude) {
 			var marker = L.marker([station.latitude, station.longitude]);
-			marker.bindPopup("<strong>"+station["Station"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
+			marker.bindPopup("<strong>"+station["Station Original"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
 			marker.addTo(clusterMarkers);
 		}
 	});
