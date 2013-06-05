@@ -4,7 +4,51 @@ body {
 }
 
 html,
-body,
-#map {
+body {
     height: 100%;
+	font-family: sans-serif;
+}
+
+body {
+	font-size: 12px;
+}
+
+#map {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 580px;
+	bottom: 52px;
+}
+
+#help {
+	position: absolute;
+	height: 52px;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	line-height: 1.4;
+}
+
+#help div {
+	padding: 5px 9px;
+}
+
+#help p {
+	margin: 0;
+}
+
+#help span {
+	margin-right: 0.45em;
+}
+
+#help span img {
+	margin-right: 0.15em;
+	position: relative;
+	top: -1px;
+}
+
+p.source {
+	color: grey;
+	font-size: 10px;
 }
