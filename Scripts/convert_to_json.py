@@ -16,10 +16,14 @@ rows = csv.DictReader(file_handle, delimiter=';')
 filtered_rows = []
 for row in rows:
     if int(row["Meldestufe"]) > 0 and len(row["latitude"]) and len(row["longitude"]):
-        row["Meldestufe"] = int(row["Meldestufe"])
-        row["latitude"] = float(row["latitude"])
-        row["longitude"] = float(row["longitude"])
-        filtered_rows.append(row)
+        filtered_rows.append({
+            "Meldestufe": int(row["Meldestufe"]),
+            "Meldestufe Original": row["Meldestufe"],
+            "Station Original": row["Station Original"],
+            "Fluss": row["Fluss"],
+            "latitude": float(row["latitude"]),
+            "longitude": float(row["longitude"])
+        })
     
 if not os.path.exists("_json"):
     os.makedirs("_json")
