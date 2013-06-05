@@ -21,9 +21,9 @@ for row in rows:
         row["longitude"] = float(row["longitude"])
         filtered_rows.append(row)
     
-if not os.path.exists("json"):
-    os.makedirs("json")
+if not os.path.exists("_json"):
+    os.makedirs("_json")
     
-output_file = open("json/%s.json" % os.path.split(sys.argv[1])[-1].split(".")[0], "wb")
+output_file = open("_json/%s.json" % os.path.split(sys.argv[1])[-1].split(".")[0], "wb")
 output_file.write("var stations = %s" % json.dumps([row for row in filtered_rows], indent=4))
 output_file.close()
