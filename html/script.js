@@ -1,5 +1,8 @@
 $(document).ready(function()
 {
+	var mapCenter = [50.25, 10];
+	var mapZoom = 6;
+	var mapMaxZoom = 12;
 
     var baseLayer = L.tileLayer('http://{s}.tile.cloudmade.com/c92a245f75214baa9572bf5e76922113/998/256/{z}/{x}/{y}.png', {
         attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>, Imagery © <a href="http://cloudmade.com">CloudMade</a>',
@@ -31,9 +34,6 @@ $(document).ready(function()
 	    popupAnchor: [0, 0],
 	});
 
-	//var data = _.filter(stations, function (station) {
-	//	return parseInt(station["Meldestufe"]) > 0;
-	//});
 	var data = _.map(stations, function (station) {
 		return {
 			"lat": station.latitude,
@@ -83,41 +83,22 @@ $(document).ready(function()
 			marker.addTo(markerLayer);
 		}
 	});
-	
-	var clusterMarkers = new L.MarkerClusterGroup();
-	_.each(stations, function (station, index, list) {
-		if (station.latitude && station.longitude) {
-			var marker = L.marker([station.latitude, station.longitude]);
-			marker.bindPopup("<strong>"+station["Station Original"]+"</strong>"+"<br>"+station["Fluss"]+"<br>"+station["Meldestufe Original"]+"<br>"+station["latitude"]+","+station["longitude"]+"<br>"+station["Bundesland"]);
-			marker.addTo(clusterMarkers);
-		}
-	});
 
 	var map = new L.Map('map', {
     	center : mapCenter,
     	zoom : mapZoom,
-		layers: [baseLayer, heatmapLayer]
+		layers: [baseLayer, heatmapLayer],
+		attributionControl: false
 	});
 	
-	var osm = new L.TileLayer('http://{s}.tile.osmosnimki.ru/kosmo/{z}/{x}/{y}.png');
-	var mpn = new L.TileLayer('http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png');
-	var qst = new L.TileLayer('http://otile1.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png', {attribution:'Tiles Courtesy of MapQuest '});
-	var sto = new L.StamenTileLayer("toner");
-	
-	L.control.layers({
-		"CloudMade": baseLayer,
-		'OSM': osm,
-		'Mapnik': mpn,
-		'MapQuest': qst,
-		'Stamen-Toner': sto,
-	}, {
+	var layerControl = L.control.layers([], {
 		"Heatmap": heatmapLayer,
-		"Stationen": markerLayer,
-		"Debug-Marker": clusterMarkers
-	}, {"collapsed": false}).addTo(map);
+		"Messstationen": markerLayer
+	}, {"collapsed": false});
+	
+	layerControl.addTo(map);
 	
 	L.control.scale({
 		"imperial": false
 	}).addTo(map);
-	
 });

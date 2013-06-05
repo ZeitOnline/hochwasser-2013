@@ -15,23 +15,29 @@
 	<script src="http://cdn.leafletjs.com/leaflet-0.5.1/leaflet.js"></script>
      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
     <script src="underscore.js"></script>
-	<script type="text/javascript" src="http://maps.stamen.com/js/tile.stamen.js?v1.2.0"></script>
-			<script type="text/javascript" src="https://raw.github.com/gist/2197042/2b90c41b39b7d5b3a851d8f256de2ebd3fe1fb74/leaflet-google.js"></script>
 	
     <script src="hochwasser_data.json"></script>
     <script type="text/javascript" src="heatmap/heatmap.js"></script>
     <script type="text/javascript" src="heatmap/heatmap-leaflet.js"></script>
     <script type="text/javascript" src="heatmap/QuadTree.js"></script>
-	<link rel="stylesheet" href="markercluster/MarkerCluster.css" />
-		<link rel="stylesheet" href="markercluster/MarkerCluster.Default.css" />
-		<!--[if lte IE 8]><link rel="stylesheet" href="markercluster/MarkerCluster.Default.ie.css" /><![endif]-->
-		<script src="markercluster/leaflet.markercluster-src.js"></script>
-    <script src="config.js"></script>
     <script src="script.js"></script>
     
     <link rel="stylesheet" href="style.css" type="text/css">
 </head>
 <body>
     <div id="map"></div>
+	<div id="help">
+		<div>
+			<p>
+				<span><img src="img/1.gif"> Meldestufe 1</span>
+				<span><img src="img/2.gif"> Meldestufe 2</span>
+				<span><img src="img/3.gif"> Meldestufe 3</span>
+				<span><img src="img/4.gif"> Meldestufe 4</span>
+			</p>
+			<p class="source">
+				Quelle: Die Hochwassernachrichtendienste der Bundesländer, Stand: 5.6.2013, 17:51 Uhr. Die Daten erheben keinen Anspruch auf Vollständigkeit und Aktualität. Die Hochwassersituation vor Ort kann sich bereits verändert haben.
+			</p>
+		</div>
+	</div>
 </body>
 </html>
