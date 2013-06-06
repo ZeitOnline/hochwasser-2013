@@ -35,3 +35,6 @@ nosetests.xml
 .pydevproject
 Scripts/_temp/
 Scripts/alt/
+Scripts/_scraped_data/
+Scripts/_totals/
+Scripts/_json/
