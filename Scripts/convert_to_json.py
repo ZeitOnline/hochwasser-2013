@@ -45,9 +45,14 @@ for row in rows:
 
 if not os.path.exists("_json"):
     os.makedirs("_json")
+
+json_output = {
+    "stations": [row for row in filtered_rows],
+    "timestamp": data_time
+}
     
 output_file = open("_json/current.json", "wb")
-output_file.write("var stations = %s" % json.dumps([row for row in filtered_rows], indent=4))
+output_file.write("var stations = %s" % json.dumps(json_output, indent=4))
 output_file.close()
 if not os.path.isfile ("_json/current.json"):
     print "something went wrong with writing the json file _json/current.json"

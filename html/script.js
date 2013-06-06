@@ -34,7 +34,7 @@ $(document).ready(function()
 	    popupAnchor: [0, 0],
 	});
 
-	var data = _.map(stations, function (station) {
+	var data = _.map(stations["stations"], function (station) {
 		return {
 			"lat": station.latitude,
 			"lon": station.longitude,
@@ -83,6 +83,10 @@ $(document).ready(function()
 			marker.addTo(markerLayer);
 		}
 	});
+	
+	var ts = stations["timestamp"].split("-");
+	ts = parseInt(ts[2])+"."+parseInt(ts[1])+"."+ts[0]+", "+ts[3]+":"+ts[4]+" Uhr";
+	$("#timestamp").html(ts);
 
 	var map = new L.Map('map', {
     	center : mapCenter,
