@@ -1,15 +1,22 @@
 #!/bin/sh
 
-python scrapers/bayern.py
-python scrapers/brandenburg.py
-python scrapers/bw.py
-python scrapers/hamburg.py
-python scrapers/hessen.py
-python scrapers/niedersachsen.py
-python scrapers/nrw.py
-python scrapers/rheinland-pfalz.py
-python scrapers/sachsen.py
-python scrapers/schleswig-holstein.py
-python scrapers/thueringen.py
-python scrapers/sachsen-anhalt.py
-#python compile.py
+NOW=$(date +"%Y-%m-%d-%H-%M-%S")
+
+echo $NOW
+
+python scrapers/bayern.py $NOW
+python scrapers/brandenburg.py $NOW
+python scrapers/bw.py $NOW
+python scrapers/hamburg.py $NOW
+python scrapers/hessen.py $NOW
+python scrapers/niedersachsen.py $NOW
+python scrapers/nrw.py $NOW
+python scrapers/rheinland-pfalz.py $NOW
+python scrapers/sachsen.py $NOW
+python scrapers/schleswig-holstein.py $NOW
+python scrapers/thueringen.py $NOW
+python scrapers/sachsen-anhalt.py $NOW
+python compile.py
+python clean_up_station_names.py
+python add_coords_from_file.py
+python convert_to_json.py

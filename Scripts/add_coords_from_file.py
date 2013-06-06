@@ -7,6 +7,24 @@ import sys
 import csv
 import os
 
+# try to get to the right data file –
+data_dirs = sorted([d for d in os.listdir("_totals") if os.path.isdir(os.path.join("_totals", d))], reverse=True)
+
+if not len(data_dirs):
+    print "no data dir"
+    sys.exit()
+
+# equals the time of the data, as well
+data_time = data_dirs[0]
+print data_time
+
+data_file_path = os.path.join("_totals", data_dirs[0], "hochwasser.csv")
+
+try:
+    with open(data_file_path): pass
+except IOError:
+    print "hochwasser.csv not found in data dir"
+
 fieldnames = set()
 fieldnames.add("latitude")
 fieldnames.add("longitude")
@@ -41,7 +59,7 @@ try:
 except IOError:                     
     pass
 
-file_handle = open(sys.argv[1])
+file_handle = open(data_file_path)
 rows = csv.DictReader(file_handle, delimiter=';')
 for fieldname in rows.fieldnames:
     fieldnames.add(fieldname)
@@ -56,13 +74,9 @@ for row in rows:
     updated_rows.append(row)   
             
 file_handle.close()
+os.rename(data_file_path, data_file_path.replace(".csv", ".nongeo.csv"))
 
-output_file_name = sys.argv[1].split(".")
-output_file_name[-2] += "-geo"
-output_file_name = ".".join(output_file_name)
-print output_file_name
-
-output_file = open(output_file_name, "wb")
+output_file = open(data_file_path, "wb")
 csv_writer = csv.DictWriter(output_file, fieldnames, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 csv_writer.writeheader()
 csv_writer.writerows(updated_rows)

@@ -10,18 +10,33 @@ import glob
 import os
 from datetime import datetime
 
+# try to get to the scraped data files –
+# they’re either a command line argument (path to dir)
+# or the default
+if len(sys.argv) > 1:
+    scraper_data_dir = sys.argv[1]
+    if not os.path.isdir(scraper_data_dir):
+        print "no scraped data dir"
+        sys.exit()
+    else:
+        # we only want the last part, as makeshift timestamp
+        scraper_data_dir = scraper_data_dir.split("/")[-1]
+else:
+    scraper_data_dirs = sorted([d for d in os.listdir("_scraped_data") if os.path.isdir(os.path.join("_scraped_data", d))], reverse=True)
+
+    if not len(scraper_data_dirs):
+        print "no scraped data dir"
+        sys.exit()
+
+    # equals the time of the data, as well
+    scraper_data_dir = scraper_data_dirs[0]
+
+print scraper_data_dir
+
 rows = []
 fieldnames = set()
 fieldnames.add("Bundesland")
 fieldnames.add("Meldestufe Original")
-
-datestring = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
-
-if not os.path.exists("alt-%s" % datestring):
-    os.makedirs("_scraped_data/alt-%s" % datestring)
-
-if not os.path.exists("_totals"):
-    os.makedirs("_totals")
 
 # Meldestufen
 meldestufen_map = {}
@@ -31,7 +46,7 @@ for meldestufe in meldestufen_reader:
     meldestufen_map[meldestufe["Meldestufe"].strip()] = meldestufe["Wert"].strip()
 meldestufen_file.close()
 
-for file in glob.glob('_scraped_data/*.csv'):
+for file in glob.glob(os.path.join("_scraped_data", scraper_data_dir, "*.csv")):
     file_handle = open(file)
     csv_reader = csv.DictReader(file_handle, delimiter=';')
     for fieldname in csv_reader.fieldnames:
@@ -49,9 +64,11 @@ for file in glob.glob('_scraped_data/*.csv'):
         rows.append(row)
         
     file_handle.close()
-    os.rename(file, "_scraped_data/alt-%s/%s" % (datestring, os.path.split(file)[-1]))
 
-output_file = open("_totals/hochwasser-%s.csv" % datestring, "wb")
+if not os.path.exists(os.path.join("_totals", scraper_data_dir)):
+    os.makedirs(os.path.join("_totals", scraper_data_dir))
+
+output_file = open(os.path.join("_totals", scraper_data_dir, "hochwasser.csv"), "wb")
 csv_writer = csv.DictWriter(output_file, fieldnames, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 csv_writer.writeheader()
 csv_writer.writerows(rows)

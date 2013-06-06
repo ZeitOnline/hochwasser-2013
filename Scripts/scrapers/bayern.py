@@ -7,7 +7,13 @@ import re
 import sys
 import csv
 import os
+from datetime import datetime
 
+if len(sys.argv) > 1:
+    datestring = sys.argv[1]
+else:
+    datestring = datetime.now().strftime("%Y-%m-%d-%H-%M-%S")
+    
 base_url = 'http://www.hnd.bayern.de/tabellen/'
 
 try:
@@ -20,10 +26,12 @@ if r.status_code != 200:
     print "Server down"
     sys.exit()
 
-if not os.path.exists("_scraped_data"):
-    os.makedirs("_scraped_data")
+output_path = os.path.join("_scraped_data", datestring)
 
-output_file = open("_scraped_data/bayern.csv", "wb")
+if not os.path.exists(output_path):
+    os.makedirs(output_path)
+
+output_file = open(os.path.join(output_path, "bayern.csv"), "wb")
 csv_writer = csv.writer(output_file, delimiter=';', quotechar='"', quoting=csv.QUOTE_MINIMAL)
 
 csv_writer.writerow([
