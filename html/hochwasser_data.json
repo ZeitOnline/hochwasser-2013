@@ -1,5 +1,5 @@
 var stations = {
-    "timestamp": "2013-06-06-11-35-18", 
+    "timestamp": "2013-06-06-13-10-40", 
     "stations": [
         {
             "Fluss": "Paar", 
@@ -325,9 +325,9 @@ var stations = {
             "Fluss": "Naab", 
             "longitude": 11.9427, 
             "Station Original": "Heitzenhofen", 
-            "Meldestufe": 3, 
+            "Meldestufe": 2, 
             "latitude": 49.126228, 
-            "Meldestufe Original": "3"
+            "Meldestufe Original": "2"
         }, 
         {
             "Fluss": "Schwarzach", 
@@ -421,9 +421,9 @@ var stations = {
             "Fluss": "Isar mit Hammerbach", 
             "longitude": 12.917398, 
             "Station Original": "Landshut Birket", 
-            "Meldestufe": 3, 
+            "Meldestufe": 1, 
             "latitude": 48.886753, 
-            "Meldestufe Original": "3"
+            "Meldestufe Original": "1"
         }, 
         {
             "Fluss": "Isar", 
@@ -779,14 +779,6 @@ var stations = {
         }, 
         {
             "Fluss": "Elbe", 
-            "longitude": 11.886716, 
-            "Station Original": "Barby", 
-            "Meldestufe": 4, 
-            "latitude": 51.966524, 
-            "Meldestufe Original": "4"
-        }, 
-        {
-            "Fluss": "Elbe", 
             "longitude": 11.75872, 
             "Station Original": "Niegripp", 
             "Meldestufe": 3, 
@@ -885,9 +877,9 @@ var stations = {
             "Fluss": "Helme", 
             "longitude": 11.11791, 
             "Station Original": "Bennungen", 
-            "Meldestufe": 1, 
+            "Meldestufe": 2, 
             "latitude": 51.461651, 
-            "Meldestufe Original": "1"
+            "Meldestufe Original": "2"
         }, 
         {
             "Fluss": "Wei\u00dfe Elster", 
@@ -1035,14 +1027,6 @@ var stations = {
         }, 
         {
             "Fluss": "Zschopau", 
-            "longitude": 13.01011, 
-            "Station Original": "Lichtenwalde 1", 
-            "Meldestufe": 1, 
-            "latitude": 50.88559, 
-            "Meldestufe Original": "1"
-        }, 
-        {
-            "Fluss": "Zschopau", 
             "longitude": 13.017165, 
             "Station Original": "Kriebstein UP", 
             "Meldestufe": 1, 
@@ -1136,6 +1120,14 @@ var stations = {
             "Meldestufe": 3, 
             "latitude": 51.408001, 
             "Meldestufe Original": "3"
+        }, 
+        {
+            "Fluss": "Schwarzer\u00a0Sch\u00f6ps", 
+            "longitude": 14.74814, 
+            "Station Original": "Sproitz", 
+            "Meldestufe": 1, 
+            "latitude": 51.288719, 
+            "Meldestufe Original": "1"
         }, 
         {
             "Fluss": "Lausitzer\u00a0Nei\u00dfe", 
