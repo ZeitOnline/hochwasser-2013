@@ -37,7 +37,7 @@ for row in rows:
         if int(row["Meldestufe"]) > 0 and len(row["latitude"]) and len(row["longitude"]):
             filtered_rows.append({
                 "Meldestufe": int(row["Meldestufe"]),
-                "Meldestufe Original": row["Meldestufe"],
+                "Meldestufe Original": row["Meldestufe Original"],
                 "Station Original": row["Station Original"],
                 "Fluss": row["Fluss"],
                 "latitude": float(row["latitude"]),
