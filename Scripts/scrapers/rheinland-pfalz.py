@@ -47,8 +47,6 @@ soup = BeautifulSoup(r.text, "lxml")
 links = soup.select('.c_t_info a[href^="/karte/uebersicht/flussgebiet/"]')
 
 for link in links:
-    print link["href"]
-    
     try:
         sub_r = requests.get("%s%s" % (base_url, link["href"].replace("karte", "pegeluebersichten")), timeout=30)
     except Exception, e:

@@ -47,7 +47,6 @@ rows = soup.select(".wwp_parlist_table tr")
 
 for row in rows:
     if row["class"] and ("tr0" in row["class"] or "tr1" in row["class"]):
-        #print row["class"]
         tds = row.select("td")
         fluss_name = tds[0].text
         station_name = tds[1].text

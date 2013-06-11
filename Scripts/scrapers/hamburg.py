@@ -47,8 +47,6 @@ soup = BeautifulSoup(r.text, "lxml")
 
 rows = soup.select(".gauge tbody tr")
 
-print len(rows)
-
 for row in rows:
     tds = row.select("td")
     fluss_name = tds[0].text

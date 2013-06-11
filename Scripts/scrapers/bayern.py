@@ -53,11 +53,7 @@ links = soup.select('body > p a[href^="tabelle_pegel.php?"]')
 for link in links:
     link_pool.add(link["href"])
 
-print link_pool
-
 for link in link_pool:
-    print link
-    
     try:
         sub_r = requests.get("%s%s" % (base_url, link), timeout=30)
     except Exception, e:
