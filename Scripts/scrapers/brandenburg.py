@@ -69,6 +69,8 @@ for item in items:
             meldestufe = 3
         if "pegel_purple" in meldestufe_img:
             meldestufe = 4
+        if "pegel_violet" in meldestufe_img:
+            meldestufe = 4
         if "pegel_k_grey" in meldestufe_img:
             meldestufe = "keine aktuellen Daten"
     
