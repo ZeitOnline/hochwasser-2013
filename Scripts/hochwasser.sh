@@ -4,6 +4,7 @@ NOW=$(date +"%Y-%m-%d-%H-%M-%S")
 
 echo $NOW
 
+python scrapers/pegelonline.py $NOW
 python scrapers/bayern.py $NOW
 python scrapers/brandenburg.py $NOW
 python scrapers/bw.py $NOW

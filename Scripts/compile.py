@@ -53,11 +53,14 @@ for file in glob.glob(os.path.join("_scraped_data", scraper_data_dir, "*.csv")):
         fieldnames.add(fieldname)
     
     for i, row in enumerate(csv_reader):
-        row["Bundesland"] = os.path.split(file)[-1].split(".")[0]
+        if os.path.split(file)[-1].split(".")[0].find("pegelonline") >= 0:
+            row["Bundesland"] = "-"
+        else:
+            row["Bundesland"] = os.path.split(file)[-1].split(".")[0]
         if "Meldestufe" in row:
-            row["Meldestufe Original"] = row["Meldestufe"]
-            if row["Meldestufe Original"].strip() in meldestufen_map:
-                row["Meldestufe"] = meldestufen_map[row["Meldestufe Original"].strip()]
+            row["Meldestufe Original"] = row["Meldestufe"].strip()
+            if row["Meldestufe"].strip() in meldestufen_map:
+                row["Meldestufe"] = meldestufen_map[row["Meldestufe"].strip()]
             else:
                 row["Meldestufe"] = ""
             
