@@ -1830,12 +1830,12 @@ latitude|longitude|name
 54.239458|10.06375|Flintbek, schleswig-holstein, germany
 53.92393|9.788435|Föhrden-Barl, schleswig-holstein, germany
 53.936409|9.69339|GRÖNHUDE, schleswig-holstein, germany
-53.430295|10.37425|Geesthacht, schleswig-holstein, germany
+53.436742|10.361481|Geesthacht, schleswig-holstein, germany
 53.788925|9.42368|Glueckstadt, schleswig-holstein, germany
 53.634558|9.84078|Halstenbek, schleswig-holstein, germany
 54.2929|10.06918|Hammer, schleswig-holstein, germany
 53.93008|9.467675|Heiligenstedten, schleswig-holstein, germany
-47.759798|10.710171|Hohnstorf, schleswig-holstein, germany
+53.367353|10.550308|Hohnstorf, schleswig-holstein, germany
 53.92361|9.515245|Itzehoe, schleswig-holstein, germany
 54.234105|9.66878|Jevenstedt, schleswig-holstein, germany
 54.20911|9.5906|KRÜCKAU SPERRWERK BP, schleswig-holstein, germany
