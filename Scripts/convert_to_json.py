@@ -33,15 +33,19 @@ rows = csv.DictReader(file_handle, delimiter=';')
 
 filtered_rows = []
 for row in rows:
-    if int(row["Meldestufe"]) > 0 and len(row["latitude"]) and len(row["longitude"]):
-        filtered_rows.append({
-            "Meldestufe": int(row["Meldestufe"]),
-            "Meldestufe Original": row["Meldestufe"],
-            "Station Original": row["Station Original"],
-            "Fluss": row["Fluss"],
-            "latitude": float(row["latitude"]),
-            "longitude": float(row["longitude"])
-        })
+    try:
+        if int(row["Meldestufe"]) > 0 and len(row["latitude"]) and len(row["longitude"]):
+            filtered_rows.append({
+                "Meldestufe": int(row["Meldestufe"]),
+                "Meldestufe Original": row["Meldestufe"],
+                "Station Original": row["Station Original"],
+                "Fluss": row["Fluss"],
+                "latitude": float(row["latitude"]),
+                "longitude": float(row["longitude"])
+            })
+    except Exception, e:
+        print "Meldestufe not in coversion table"
+        continue
 
 if not os.path.exists("_json"):
     os.makedirs("_json")
