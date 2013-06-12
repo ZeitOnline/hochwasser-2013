@@ -196,7 +196,6 @@ latitude|longitude|name
 48.917194|11.407995|Marklkofen Werkszufluß, bayern, germany
 48.917194|11.407995|Marklkofen Seepegel, bayern, germany
 48.917194|11.407995|Marklkofen Werksabfluß, bayern, germany
-50.12867|9.82298|Neumühle, bayern, germany
 48.610649|12.69448|Rottersdorf, bayern, germany
 48.638309|12.92768|Reichstorf, bayern, germany
 48.739799|11.87537|Grafenmühle, bayern, germany
@@ -367,9 +366,8 @@ latitude|longitude|name
 47.794926|12.533549|Krotzenburg, bayern, germany
 48.917194|11.407995|Frankfurt a.M. Osthafen, bayern, germany
 48.917194|11.407995|Raunheim, bayern, germany
-50.049839|11.67474|Bad Berneck, bayern, germany
 50.091675|11.528455|Ködnitz, bayern, germany
-50.049839|11.67474|Bad Berneck, bayern, germany
+50.041927|11.67474|Bad Berneck, bayern, germany
 49.57518|12.09254|Neudorf, bayern, germany
 50.068729|11.550526|Trebgast, bayern, germany
 50.10699|11.60672|Wirsberg, bayern, germany
@@ -425,7 +423,7 @@ latitude|longitude|name
 49.89178|10.89334|Bamberg, bayern, germany
 48.90114|12.62437|Roth Kläranlage, bayern, germany
 49.350182|11.05808|Katzwang, bayern, germany
-50.12867|9.82298|Neumühle, bayern, germany
+49.043269|12.54364|Neumühle, bayern, germany
 49.402611|10.46377|Mitteldachstetten (neu), bayern, germany
 49.366852|10.49158|Oberheßbach, bayern, germany
 49.300686|10.572037|Ansbach, bayern, germany
