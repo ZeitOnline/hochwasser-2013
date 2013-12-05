@@ -1919,7 +1919,7 @@ latitude|longitude|name
 54.20911|9.5906|Strucklahnungshörn BP, schleswig-holstein, germany
 54.314336|8.9375|Toenning, schleswig-holstein, germany
 54.5149|9.321665|Treia, schleswig-holstein, germany
-54.20911|9.5906|Tuemlau AP, schleswig-holstein, germany
+54.34635|8.65362|Tuemlau AP, schleswig-holstein, germany
 54.20911|9.5906|Tönning BP, schleswig-holstein, germany
 54.20911|9.5906|Tümlau BP, schleswig-holstein, germany
 54.20911|9.5906|Westerland-Messpfahl, schleswig-holstein, germany
@@ -2063,7 +2063,7 @@ latitude|longitude|name
 51.427206|7.66379|Burg Veynau, nrw, germany
 49.00054|11.382666|Kinding, bayern, germany
 52.25|7.71667|Lehen, nrw, germany
-47.759798|10.710171|Tuemlau, schleswig-holstein, germany
+54.34635|8.65362|Tuemlau, schleswig-holstein, germany
 53.038891|12.08491|Garz, brandenburg, germany
 51.116884|6.95476|Haus Langenfeld, nrw, germany
 52.84827|9.02903|Heide, niedersachsen, germany
