@@ -49,12 +49,12 @@ for row in rows:
     tds = row.select("td")
     if len(tds) == 0:
         continue
-    fluss_name = tds[1].text
-    station_name = tds[0].text
-    zeitpunkt = tds[2].text
-    wasserstand = tds[3].text
-    differenz = tds[5].text
-    meldestufe = tds[7].text
+    fluss_name = tds[1].text.strip()
+    station_name = tds[0].text.strip()
+    zeitpunkt = tds[2].text.strip()
+    wasserstand = tds[3].text.strip()
+    differenz = tds[5].text.strip()
+    meldestufe = tds[7].text.strip()
     
     csv_writer.writerow([
         fluss_name.encode("UTF-8"),
