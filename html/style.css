@@ -18,12 +18,12 @@ body {
 	top: 0;
 	left: 0;
 	right: 0;
-	bottom: 52px;
+	bottom: 70px;
 }
 
 #help {
 	position: absolute;
-	height: 52px;
+	height: 70px;
 	left: 0;
 	right: 0;
 	bottom: 0;
