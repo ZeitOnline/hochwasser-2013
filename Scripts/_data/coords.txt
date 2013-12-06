@@ -1861,14 +1861,14 @@ latitude|longitude|name
 53.544899|10.2976|Sachsenwaldau, schleswig-holstein, germany
 54.024899|9.791205|Sarlhusen, schleswig-holstein, germany
 53.583328|9.7|Schulau, schleswig-holstein, germany
-47.759798|10.710171|StPauli, schleswig-holstein, germany
+53.54570448|9.96992746|StPauli, schleswig-holstein, germany
 54.34053|9.99095|Strohbrück, schleswig-holstein, germany
 54.129231|9.559296|Todenbüttel, schleswig-holstein, germany
 53.68366|9.662985|UETERSEN, schleswig-holstein, germany
 54.008534|9.809918|Willenscharen, schleswig-holstein, germany
 53.943904|9.605655|Winseldorf, schleswig-holstein, germany
 53.933758|9.683857|Wittenberge, schleswig-holstein, germany
-47.759798|10.710171|Zollenspieker, schleswig-holstein, germany
+53.39872388|10.18532732|Zollenspieker, schleswig-holstein, germany
 54.20911|9.5906|Arlau-Schleuse BP, schleswig-holstein, germany
 54.029224|9.019151|Barlter Neuendeich, schleswig-holstein, germany
 54.69923|9.6305|Bondebrück, schleswig-holstein, germany
@@ -1876,8 +1876,8 @@ latitude|longitude|name
 54.20911|9.5906|Büsum-Erlengrund, schleswig-holstein, germany
 54.730265|8.707415|Dagebuell, schleswig-holstein, germany
 54.20911|9.5906|Deichsiel Sommerkoog Steertloch AP, schleswig-holstein, germany
-54.20911|9.5906|Eidersperrwerk AP, schleswig-holstein, germany
-54.20911|9.5906|Eidersperrwerk BP, schleswig-holstein, germany
+54.265951411460115|8.841914809442672|Eidersperrwerk AP, schleswig-holstein, germany
+54.26585320877476|8.849450815238436|Eidersperrwerk BP, schleswig-holstein, germany
 54.20911|9.5906|Everschopsiel AP, schleswig-holstein, germany
 54.20911|9.5906|Everschopsiel BP, schleswig-holstein, germany
 54.20911|9.5906|Friedrichskoog Sperrwerk AP, schleswig-holstein, germany
@@ -1915,8 +1915,8 @@ latitude|longitude|name
 54.20911|9.5906|Sommerkoog Steertloch BP, schleswig-holstein, germany
 54.354961|9.55542|Sorgbrück, schleswig-holstein, germany
 54.20911|9.5906|Stoer-Sperrwerk AP, schleswig-holstein, germany
-54.20911|9.5906|Strucklahnungshoern AP, schleswig-holstein, germany
-54.20911|9.5906|Strucklahnungshörn BP, schleswig-holstein, germany
+54.49883|8.80633|Strucklahnungshoern AP, schleswig-holstein, germany
+54.49637|8.80782|Strucklahnungshörn BP, schleswig-holstein, germany
 54.314336|8.9375|Toenning, schleswig-holstein, germany
 54.5149|9.321665|Treia, schleswig-holstein, germany
 54.34635|8.65362|Tuemlau AP, schleswig-holstein, germany
@@ -2095,7 +2095,7 @@ latitude|longitude|name
 50.779171|12.86733|Neukirchen, sachsen, germany
 52.01075|8.96049|Vossheide, nrw, germany
 51.427206|7.66379|Jubachtalsperre, nrw, germany
-47.759798|10.710171|Eidersperrwerk, schleswig-holstein, germany
+54.26585320877476|8.849450815238436|Eidersperrwerk, schleswig-holstein, germany
 53.660099|10.0799|Poppenbüttel, hamburg, germany
 52.458466|13.017505|Beeskow Spreeschleuse, brandenburg, germany
 51.670101|8.34596|Lippstadt, nrw, germany
@@ -2149,7 +2149,7 @@ latitude|longitude|name
 51.011978|13.49558|Herzogswalde, sachsen, germany
 48.245829|10.985504|Merching, bayern, germany
 49.342235|12.52815|Rötz, bayern, germany
-47.759798|10.710171|Strucklahnungshoern, schleswig-holstein, germany
+54.49883|8.80633|Strucklahnungshoern, schleswig-holstein, germany
 52.014166|10.779219|Bad Hersfeld1, hessen, germany
 50.939934|14.130405|Porschdorf, sachsen, germany
 48.917194|11.407995|Grüntensee, bayern, germany
@@ -2258,7 +2258,7 @@ latitude|longitude|name
 50.53185|12.403552|Rodewisch, sachsen, germany
 52.990452|8.27819|Huntlosen, niedersachsen, germany
 52.458466|13.017505|Golzow, Straßenbrücke, brandenburg, germany
-47.759798|10.710171|Strucklahnungshörn, schleswig-holstein, germany
+54.49883|8.80633|Strucklahnungshörn, schleswig-holstein, germany
 52.458466|13.017505|Neutornow, Schöpfwerk, brandenburg, germany
 48.001539|10.506183|Dirlewang, bayern, germany
 51.92762|12.385796|Bad Düben, sachsen-anhalt, germany
